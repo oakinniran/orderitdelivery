@@ -1,0 +1,468 @@
+2025-04-08 08:02:01,818 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for app.orderitdelivery.com
+2025-04-08 08:02:01,938 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request because it was found in queue for app.orderitdelivery.com
+2025-04-08 08:02:02,127 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for app.orderitdelivery.com
+2025-04-08 08:02:02,678 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for app.orderitdelivery.com
+2025-04-08 08:02:02,821 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for app.orderitdelivery.com
+2025-04-08 08:02:02,858 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for app.orderitdelivery.com
+2025-04-08 08:02:03,187 ERROR scheduler Skipped queueing payments.payment_gateways.doctype.razorpay_settings.razorpay_settings.capture_payment because it was found in queue for app.orderitdelivery.com
+2025-04-08 08:02:03,555 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for app.orderitdelivery.com
+2025-04-08 08:02:03,643 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for app.orderitdelivery.com
+2025-04-08 08:02:04,236 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-08 09:01:54,503 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for app.orderitdelivery.com
+2025-04-08 09:01:55,208 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for app.orderitdelivery.com
+2025-04-08 09:01:55,547 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for app.orderitdelivery.com
+2025-04-08 09:01:55,871 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for app.orderitdelivery.com
+2025-04-08 09:01:56,150 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request because it was found in queue for app.orderitdelivery.com
+2025-04-08 09:01:56,506 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-08 09:01:56,981 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for app.orderitdelivery.com
+2025-04-08 09:01:57,199 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for app.orderitdelivery.com
+2025-04-08 09:01:57,516 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:01:42,210 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:01:42,607 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:01:42,703 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:01:42,738 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:01:43,150 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:01:43,439 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:01:43,569 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:01:43,713 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:01:43,875 ERROR scheduler Skipped queueing frappe.automation.doctype.reminder.reminder.send_reminders because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:01:44,581 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:31:21,165 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:31:21,381 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for app.orderitdelivery.com
+2025-04-08 10:31:22,594 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for app.orderitdelivery.com
+2025-04-09 12:16:28,219 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for app.orderitdelivery.com
+2025-04-09 12:16:28,224 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset_maintenance_log.asset_maintenance_log.update_asset_maintenance_log_status because it was found in queue for app.orderitdelivery.com
+2025-04-09 12:16:28,351 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset.asset.update_maintenance_status because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,602 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,614 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,619 ERROR scheduler Skipped queueing erpnext.quality_management.doctype.quality_review.quality_review.review because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,620 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,622 ERROR scheduler Skipped queueing hrms.hr.doctype.daily_work_summary_group.daily_work_summary_group.send_summary because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,698 ERROR scheduler Skipped queueing frappe.desk.doctype.event.event.send_event_digest because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,705 ERROR scheduler Skipped queueing erpnext.accounts.doctype.fiscal_year.fiscal_year.auto_create_fiscal_year because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,715 ERROR scheduler Skipped queueing erpnext.support.doctype.service_level_agreement.service_level_agreement.check_agreement_status because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,796 ERROR scheduler Skipped queueing erpnext.buying.doctype.supplier_scorecard.supplier_scorecard.refresh_scorecards because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,800 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_contacts.google_contacts.sync because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,809 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,814 ERROR scheduler Skipped queueing hrms.hr.doctype.interview.interview.send_interview_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,818 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,821 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,900 ERROR scheduler Skipped queueing erpnext.selling.doctype.quotation.quotation.set_expired_status because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,911 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset.asset.make_post_gl_entry because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,915 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:57,920 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:58,198 ERROR scheduler Skipped queueing erpnext.stock.doctype.serial_no.serial_no.update_maintenance_status because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:58,306 ERROR scheduler Skipped queueing hrms.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:58,318 ERROR scheduler Skipped queueing hrms.controllers.employee_reminders.send_birthday_reminders because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:58,514 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset.asset.update_maintenance_status because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:58,522 ERROR scheduler Skipped queueing frappe.sessions.clear_expired_sessions because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:58,698 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:58,706 ERROR scheduler Skipped queueing erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:58,710 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for app.orderitdelivery.com
+2025-04-10 05:01:58,795 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,396 ERROR scheduler Skipped queueing frappe.sessions.clear_expired_sessions because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,399 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset.asset.make_post_gl_entry because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,401 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,403 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,404 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,411 ERROR scheduler Skipped queueing hrms.hr.doctype.interview.interview.send_daily_feedback_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,412 ERROR scheduler Skipped queueing erpnext.selling.doctype.quotation.quotation.set_expired_status because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,413 ERROR scheduler Skipped queueing hrms.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,416 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_daily_updates because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,421 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,423 ERROR scheduler Skipped queueing hrms.hr.doctype.job_opening.job_opening.close_expired_job_openings because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,424 ERROR scheduler Skipped queueing erpnext.accounts.utils.auto_create_exchange_rate_revaluation_daily because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,598 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.update_project_sales_billing because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,614 ERROR scheduler Skipped queueing erpnext.quality_management.doctype.quality_review.quality_review.review because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,697 ERROR scheduler Skipped queueing frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,700 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,701 ERROR scheduler Skipped queueing hrms.hr.doctype.daily_work_summary_group.daily_work_summary_group.send_summary because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,704 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,804 ERROR scheduler Skipped queueing erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,805 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.send_project_status_email_to_users because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,808 ERROR scheduler Skipped queueing erpnext.accounts.doctype.fiscal_year.fiscal_year.auto_create_fiscal_year because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,809 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for app.orderitdelivery.com
+2025-04-11 05:01:09,814 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset_maintenance_log.asset_maintenance_log.update_asset_maintenance_log_status because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,020 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,099 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.update_project_sales_billing because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,100 ERROR scheduler Skipped queueing hrms.controllers.employee_reminders.send_work_anniversary_reminders because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,110 ERROR scheduler Skipped queueing erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,120 ERROR scheduler Skipped queueing hrms.hr.doctype.interview.interview.send_daily_feedback_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,120 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,196 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,198 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset.asset.update_maintenance_status because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,198 ERROR scheduler Skipped queueing frappe.desk.doctype.event.event.send_event_digest because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,200 ERROR scheduler Skipped queueing erpnext.support.doctype.issue.issue.auto_close_tickets because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,202 ERROR scheduler Skipped queueing erpnext.buying.doctype.supplier_quotation.supplier_quotation.set_expired_status because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,203 ERROR scheduler Skipped queueing hrms.controllers.employee_reminders.send_birthday_reminders because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,204 ERROR scheduler Skipped queueing hrms.hr.doctype.daily_work_summary_group.daily_work_summary_group.send_summary because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,205 ERROR scheduler Skipped queueing erpnext.projects.doctype.task.task.set_tasks_as_overdue because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,206 ERROR scheduler Skipped queueing frappe.email.doctype.notification.notification.trigger_daily_alerts because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,208 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,209 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,210 ERROR scheduler Skipped queueing frappe.oauth.delete_oauth2_data because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,211 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,213 ERROR scheduler Skipped queueing hrms.hr.doctype.job_opening.job_opening.close_expired_job_openings because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,215 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,217 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_daily_updates because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,218 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.send_project_status_email_to_users because it was found in queue for app.orderitdelivery.com
+2025-04-12 05:01:12,219 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,236 ERROR scheduler Skipped queueing erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,617 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.collect_project_status because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,623 ERROR scheduler Skipped queueing hrms.hr.doctype.interview.interview.send_interview_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,636 ERROR scheduler Skipped queueing erpnext.accounts.utils.auto_create_exchange_rate_revaluation_daily because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,709 ERROR scheduler Skipped queueing erpnext.crm.doctype.email_campaign.email_campaign.send_email_to_leads_or_contacts because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,714 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,720 ERROR scheduler Skipped queueing erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,722 ERROR scheduler Skipped queueing erpnext.buying.doctype.supplier_quotation.supplier_quotation.set_expired_status because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,725 ERROR scheduler Skipped queueing frappe.model.utils.user_settings.sync_user_settings because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,729 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_contacts.google_contacts.sync because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,732 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,733 ERROR scheduler Skipped queueing erpnext.crm.doctype.opportunity.opportunity.auto_close_opportunity because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,735 ERROR scheduler Skipped queueing erpnext.selling.doctype.quotation.quotation.set_expired_status because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,809 ERROR scheduler Skipped queueing erpnext.utilities.doctype.video.video.update_youtube_data because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,813 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.send_project_status_email_to_users because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,823 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:47,831 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,009 ERROR scheduler Skipped queueing erpnext.support.doctype.issue.issue.auto_close_tickets because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,020 ERROR scheduler Skipped queueing erpnext.accounts.doctype.process_statement_of_accounts.process_statement_of_accounts.send_auto_email because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,023 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,031 ERROR scheduler Skipped queueing erpnext.setup.doctype.company.company.cache_companies_monthly_sales_history because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,109 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset.asset.make_post_gl_entry because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,115 ERROR scheduler Skipped queueing erpnext.controllers.accounts_controller.update_invoice_status because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,116 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.pull because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,117 ERROR scheduler Skipped queueing frappe.email.doctype.notification.notification.trigger_daily_alerts because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,118 ERROR scheduler Skipped queueing hrms.hr.doctype.daily_work_summary_group.daily_work_summary_group.send_summary because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,124 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,127 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,132 ERROR scheduler Skipped queueing hrms.controllers.employee_reminders.send_work_anniversary_reminders because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,132 ERROR scheduler Skipped queueing hrms.hr.doctype.interview.interview.send_daily_feedback_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,134 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for app.orderitdelivery.com
+2025-04-13 05:01:48,210 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset.asset.update_maintenance_status because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:18,606 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.project_status_update_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:18,629 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:18,706 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:18,713 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:18,715 ERROR scheduler Skipped queueing hrms.hr.doctype.interview.interview.send_daily_feedback_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:18,720 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset_maintenance_log.asset_maintenance_log.update_asset_maintenance_log_status because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:18,730 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:18,813 ERROR scheduler Skipped queueing frappe.desk.page.backups.backups.delete_downloadable_backups because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:18,817 ERROR scheduler Skipped queueing frappe.email.queue.flush because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:18,825 ERROR scheduler Skipped queueing erpnext.stock.doctype.serial_no.serial_no.update_maintenance_status because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:18,828 ERROR scheduler Skipped queueing erpnext.crm.doctype.email_campaign.email_campaign.send_email_to_leads_or_contacts because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,007 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_daily_updates because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,027 ERROR scheduler Skipped queueing hrms.hr.doctype.interview.interview.send_interview_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,105 ERROR scheduler Skipped queueing payments.payment_gateways.doctype.razorpay_settings.razorpay_settings.capture_payment because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,106 ERROR scheduler Skipped queueing erpnext.buying.doctype.supplier_scorecard.supplier_scorecard.refresh_scorecards because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,118 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.send_project_status_email_to_users because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,123 ERROR scheduler Skipped queueing erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,124 ERROR scheduler Skipped queueing frappe.sessions.clear_expired_sessions because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,128 ERROR scheduler Skipped queueing erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,129 ERROR scheduler Skipped queueing frappe.twofactor.delete_all_barcodes_for_users because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,130 ERROR scheduler Skipped queueing frappe.model.utils.link_count.update_link_count because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,130 ERROR scheduler Skipped queueing frappe.desk.notifications.clear_notifications because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,131 ERROR scheduler Skipped queueing frappe.deferred_insert.save_to_db because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,204 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset.asset.make_post_gl_entry because it was found in queue for app.orderitdelivery.com
+2025-04-14 05:01:19,207 ERROR scheduler Skipped queueing erpnext.buying.doctype.supplier_quotation.supplier_quotation.set_expired_status because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,433 ERROR scheduler Skipped queueing frappe.monitor.flush because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,808 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_hourly_updates because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,812 ERROR scheduler Skipped queueing frappe.website.doctype.web_page.web_page.check_publish_status because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,817 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.send_project_status_email_to_users because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,820 ERROR scheduler Skipped queueing frappe.utils.global_search.sync_global_search because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,824 ERROR scheduler Skipped queueing frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,826 ERROR scheduler Skipped queueing frappe.desk.form.document_follow.send_daily_updates because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,828 ERROR scheduler Skipped queueing hrms.controllers.employee_reminders.send_birthday_reminders because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,905 ERROR scheduler Skipped queueing hrms.hr.doctype.job_opening.job_opening.close_expired_job_openings because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,907 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset.asset.make_post_gl_entry because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,912 ERROR scheduler Skipped queueing erpnext.setup.doctype.company.company.cache_companies_monthly_sales_history because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,916 ERROR scheduler Skipped queueing frappe.desk.doctype.event.event.send_event_digest because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,920 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_calendar.google_calendar.sync because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,924 ERROR scheduler Skipped queueing frappe.social.doctype.energy_point_settings.energy_point_settings.allocate_review_points because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,928 ERROR scheduler Skipped queueing erpnext.selling.doctype.quotation.quotation.set_expired_status because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:08,930 ERROR scheduler Skipped queueing erpnext.accounts.utils.auto_create_exchange_rate_revaluation_daily because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:09,036 ERROR scheduler Skipped queueing frappe.integrations.doctype.google_contacts.google_contacts.sync because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:09,408 ERROR scheduler Skipped queueing erpnext.crm.doctype.email_campaign.email_campaign.send_email_to_leads_or_contacts because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:09,420 ERROR scheduler Skipped queueing erpnext.assets.doctype.asset_maintenance_log.asset_maintenance_log.update_asset_maintenance_log_status because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:09,423 ERROR scheduler Skipped queueing erpnext.projects.doctype.project.project.hourly_reminder because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:09,426 ERROR scheduler Skipped queueing erpnext.projects.doctype.task.task.set_tasks_as_overdue because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:09,428 ERROR scheduler Skipped queueing frappe.email.doctype.email_account.email_account.notify_unreplied because it was found in queue for app.orderitdelivery.com
+2025-04-15 05:01:09,431 ERROR scheduler Skipped queueing erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status because it was found in queue for app.orderitdelivery.com
+2025-04-20 13:46:42,671 ERROR scheduler Exception in Enqueue Events for Site app.orderitdelivery.com
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 230, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 825, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 1199, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 775, in _read_packet
+    packet.raise_for_error()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table '_d46ddd5af12264dd.tabSingles' doesn't exist")
+2025-04-20 13:47:42,744 ERROR scheduler Exception in Enqueue Events for Site app.orderitdelivery.com
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 230, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 825, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 1199, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 775, in _read_packet
+    packet.raise_for_error()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table '_d46ddd5af12264dd.tabSingles' doesn't exist")
+2025-04-20 13:48:42,814 ERROR scheduler Exception in Enqueue Events for Site app.orderitdelivery.com
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 230, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 825, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 1199, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 775, in _read_packet
+    packet.raise_for_error()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table '_d46ddd5af12264dd.tabSingles' doesn't exist")
+2025-04-20 13:49:42,901 ERROR scheduler Exception in Enqueue Events for Site app.orderitdelivery.com
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 230, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 825, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 1199, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 775, in _read_packet
+    packet.raise_for_error()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table '_d46ddd5af12264dd.tabSingles' doesn't exist")
+2025-04-20 13:50:43,005 ERROR scheduler Exception in Enqueue Events for Site app.orderitdelivery.com
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 230, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 825, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 1199, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 775, in _read_packet
+    packet.raise_for_error()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table '_d46ddd5af12264dd.tabSingles' doesn't exist")
+2025-04-20 13:51:43,100 ERROR scheduler Exception in Enqueue Events for Site app.orderitdelivery.com
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 230, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 825, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 1199, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 775, in _read_packet
+    packet.raise_for_error()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table '_d46ddd5af12264dd.tabSingles' doesn't exist")
+2025-04-20 13:52:43,198 ERROR scheduler Exception in Enqueue Events for Site app.orderitdelivery.com
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 230, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 825, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 1199, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 775, in _read_packet
+    packet.raise_for_error()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table '_d46ddd5af12264dd.tabSingles' doesn't exist")
+2025-04-20 13:53:43,295 ERROR scheduler Exception in Enqueue Events for Site app.orderitdelivery.com
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 230, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 825, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 1199, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 775, in _read_packet
+    packet.raise_for_error()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table '_d46ddd5af12264dd.tabSingles' doesn't exist")
+2025-04-20 13:54:43,373 ERROR scheduler Exception in Enqueue Events for Site app.orderitdelivery.com
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
+    if is_scheduler_inactive():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 143, in is_scheduler_inactive
+    if is_scheduler_disabled(verbose=verbose):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 156, in is_scheduler_disabled
+    frappe.db.get_single_value("System Settings", "enable_scheduler")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 837, in get_single_value
+    ).run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database/database.py", line 230, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 563, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 825, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 1199, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/connections.py", line 775, in _read_packet
+    packet.raise_for_error()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table '_d46ddd5af12264dd.tabSingles' doesn't exist")

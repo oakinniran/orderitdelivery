@@ -1,0 +1,362 @@
+2025-03-19 23:49:05,008 INFO ipython === bench console session ===
+2025-03-19 23:49:05,008 INFO ipython import frappe
+response = frappe.call("shopowner.api.create_supplier_user",
+                       email="supplier@example.com",
+                       shop_name="My Shop",
+                       first_name="John",
+                       phone="+1234567890",
+                       latitude="37.7749",
+                       longitude="-122.4194")
+print(response)
+2025-03-19 23:49:05,008 INFO ipython === session end ===
+2025-03-21 04:36:34,927 INFO ipython === bench console session ===
+2025-03-21 04:36:34,928 INFO ipython import frappe
+
+def fix_permissions():
+    roles = ["Driver", "System Manager"]  # Add other necessary roles
+
+    for role in roles:
+        for doctype in ["Driver", "User", "File"]:
+            frappe.permissions.add_permission(doctype, role, 1)  # 1 = Allow
+
+    frappe.db.commit()
+    print("Permissions updated successfully.")
+
+fix_permissions()
+2025-03-21 04:36:34,928 INFO ipython === session end ===
+2025-03-21 15:13:16,259 INFO ipython === bench console session ===
+2025-03-21 15:13:16,260 INFO ipython import frappe
+
+user_email = "admin@example.com"
+
+# Check if the user has Read Permission
+can_subscribe = frappe.has_permission("Driver", "read", user=user_email)
+print(f"User can subscribe to Driver: {can_subscribe}")
+2025-03-21 15:13:16,260 INFO ipython import frappe
+
+user_email = "admin@example.com"
+
+# Check if the user has Read Permission
+can_subscribe = frappe.has_permission("Driver", "read", user=sales@hremsoft.com
+)
+print(f"User can subscribe to Driver: {can_subscribe}")
+2025-03-21 15:13:16,260 INFO ipython import frappe
+
+user_email = "admin@example.com"
+
+# Check if the user has Read Permission
+can_subscribe = frappe.has_permission("Driver", "read", user=adedav2011@gmail.com)
+
+print(f"User can subscribe to Driver: {can_subscribe}")
+2025-03-21 15:13:16,260 INFO ipython import frappe
+
+user_email = "admin@example.com"
+
+# Check if the user has Read Permission
+can_subscribe = frappe.has_permission("Driver", "read", user=sales@hremsoft.com
+)
+print(f"User can subscribe to Driver: {can_subscribe}")
+2025-03-21 15:13:16,260 INFO ipython === session end ===
+2025-03-22 00:22:11,378 INFO ipython === bench console session ===
+2025-03-22 00:22:11,380 INFO ipython # Define the role and the document type
+role_name = "Driver"
+document_type = "Delivery Note"
+
+# Check if the Role Permissions exist for the Delivery Note DocType
+role_permissions = frappe.get_all("Role Permissions Manager", filters={
+    "role": role_name,
+    "document_type": document_type
+})
+
+# If no permissions exist for this role and DocType, create them
+if not role_permissions:
+    # Define the permissions to be granted (e.g., Read, Write)
+    role_permissions_doc = frappe.get_doc({
+        "doctype": "Role Permissions Manager",
+        "role": role_name,
+        "document_type": document_type,
+        "read": 1,  # Allow read permission
+        "write": 1,  # Allow write permission
+        "create": 1,  # Allow create permission
+        "submit": 1,  # Allow submit permission
+        "cancel": 1,  # Allow cancel permission
+        "delete": 0  # Deny delete permission
+    })
+    
+    # Save the permissions to the database
+    role_permissions_doc.insert()
+    print(f"Permissions for role '{role_name}' on '{document_type}' have been set.")
+else:
+    print(f"Permissions for role '{role_name}' on '{document_type}' already exist.")
+2025-03-22 00:22:11,380 INFO ipython # Define the role and the document type
+role_name = "Driver"
+document_type = "Delivery Note"
+
+# Check if the Role Permissions exist for the Delivery Note DocType
+role_permissions = frappe.get_all("Role Permissions Manager", filters={
+    "role": role_name,
+    "document_type": document_type
+})
+
+# If no permissions exist for this role and DocType, create them
+if not role_permissions:
+    # Define the permissions to be granted (e.g., Read, Write)
+    role_permissions_doc = frappe.get_doc({
+        "doctype": "Role Permissions Manager",
+        "role": role_name,
+        "document_type": document_type,
+        "read": 1,  # Allow read permission
+        "write": 1,  # Allow write permission
+        "create": 1,  # Allow create permission
+        "submit": 1,  # Allow submit permission
+        "cancel": 1,  # Allow cancel permission
+        "delete": 0  # Deny delete permission
+    })
+    
+    # Save the permissions to the database
+    role_permissions_doc.insert()
+    print(f"Permissions for role '{role_name}' on '{document_type}' have been set.")
+else:
+    print(f"Permissions for role '{role_name}' on '{document_type}' already exist.")
+    
+2025-03-22 00:22:11,380 INFO ipython frappe.get_doc({
+    "doctype": "Role Permissions Manager",
+    "role": "Driver",
+    "document_type": "Delivery Note",
+    "read": 1, "write": 1, "create": 1, "submit": 1, "cancel": 1, "delete": 0
+}).insert()
+2025-03-22 00:22:11,380 INFO ipython # Define the role and document type
+role_name = "Driver"
+document_type = "Delivery Note"
+
+# Check if the permissions already exist for this role on the document type
+role_permissions = frappe.get_all("Role Permissions Manager", filters={
+    "role": role_name,
+    "document_type": document_type
+})
+
+# If permissions are not set, create them
+if not role_permissions:
+    role_permissions_doc = frappe.get_doc({
+        "doctype": "Role Permissions Manager",
+        "role": role_name,
+        "document_type": document_type,
+        "read": 1,    # Allow read permission
+        "write": 1,   # Allow write permission
+        "create": 1,  # Allow create permission
+        "submit": 1,  # Allow submit permission
+        "cancel": 1,  # Allow cancel permission
+        "delete": 0   # Deny delete permission
+    })
+    
+    role_permissions_doc.insert()
+    print(f"Permissions for role '{role_name}' on '{document_type}' have been set.")
+else:
+    print(f"Permissions for role '{role_name}' on '{document_type}' already exist.")
+2025-03-22 00:22:11,380 INFO ipython === session end ===
+2025-03-23 13:01:29,278 INFO ipython === bench console session ===
+2025-03-23 13:01:29,278 INFO ipython pe = frappe.get_doc("Payment Entry", "PAYMENT-0001")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:01:29,279 INFO ipython pe = frappe.get_doc("Payment Entry", "ACC-PRQ-2025-00041")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:01:29,279 INFO ipython pe = frappe.get_doc("Payment Entry", "SAL-ORD-2025-00049")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:01:29,279 INFO ipython pe = frappe.get_doc("Payment Entry", "ACC-SINV-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:01:29,279 INFO ipython pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:01:29,279 INFO ipython pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:01:29,279 INFO ipython === session end ===
+2025-03-23 13:45:40,393 INFO ipython === bench console session ===
+2025-03-23 13:45:40,393 INFO ipython pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:45:40,394 INFO ipython pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+order_tracking.api.assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:45:40,394 INFO ipython pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+order_tracking.api.assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:45:40,394 INFO ipython from order_tracking.api import assign_driver_after_payment
+pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:45:40,394 INFO ipython pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+print(pe.as_dict())  # Check available attributes
+2025-03-23 13:45:40,394 INFO ipython from order_tracking.api import assign_driver_after_payment
+pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:45:40,394 INFO ipython from order_tracking.api import assign_driver_after_payment
+pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:45:40,394 INFO ipython === session end ===
+2025-03-23 13:47:26,764 INFO ipython === bench console session ===
+2025-03-23 13:47:26,764 INFO ipython from order_tracking.api import assign_driver_after_payment
+pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:47:26,764 INFO ipython === session end ===
+2025-03-23 13:49:15,775 INFO ipython === bench console session ===
+2025-03-23 13:49:15,775 INFO ipython from order_tracking.api import assign_driver_after_payment
+pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:49:15,775 INFO ipython === session end ===
+2025-03-23 13:53:34,736 INFO ipython === bench console session ===
+2025-03-23 13:53:34,736 INFO ipython from order_tracking.api import assign_driver_after_payment
+pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:53:34,736 INFO ipython === session end ===
+2025-03-23 13:58:51,106 INFO ipython === bench console session ===
+2025-03-23 13:58:51,106 INFO ipython from order_tracking.api import assign_driver_after_payment
+pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 13:58:51,106 INFO ipython === session end ===
+2025-03-23 14:04:18,070 INFO ipython === bench console session ===
+2025-03-23 14:04:18,071 INFO ipython from order_tracking.api import assign_driver_after_payment
+pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 14:04:18,071 INFO ipython === session end ===
+2025-03-23 14:07:00,994 INFO ipython === bench console session ===
+2025-03-23 14:07:00,995 INFO ipython from order_tracking.api import assign_driver_after_payment
+pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 14:07:00,996 INFO ipython === session end ===
+2025-03-23 14:21:40,249 INFO ipython === bench console session ===
+2025-03-23 14:21:40,249 INFO ipython from order_tracking.api import assign_driver_after_payment
+pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 14:21:40,249 INFO ipython === session end ===
+2025-03-23 14:57:13,616 INFO ipython === bench console session ===
+2025-03-23 14:57:13,616 INFO ipython from order_tracking.api import assign_driver_after_payment
+pe = frappe.get_doc("Payment Entry", "ACC-PAY-2025-00009")
+assign_driver_after_payment(pe, "on_submit")
+2025-03-23 14:57:13,616 INFO ipython === session end ===
+2025-03-25 01:42:14,650 INFO ipython === bench console session ===
+2025-03-25 01:42:14,651 INFO ipython frappe.call("your_app.your_module.assign_driver_after_payment", {"reference_name": "ORDER-ID"})
+2025-03-25 01:42:14,651 INFO ipython frappe.call("your_app.your_module.assign_driver_after_payment", {"reference_name": "SAL-ORD-2025-00095"})
+2025-03-25 01:42:14,651 INFO ipython curl -X GET "http://yourfrappe.com/api/method/get_tracking_data?order_id=SAL-ORD-2025-00095"
+2025-03-25 01:42:14,651 INFO ipython curl -X GET http://yourfrappe.com/api/method/get_tracking_data?order_id=SAL-ORD-2025-00095
+2025-03-25 01:42:14,651 INFO ipython curl -X GET "http://yourfrappe.com/api/method/get_tracking_data?order_id=SAL-ORD-2025-00095"
+2025-03-25 01:42:14,651 INFO ipython === session end ===
+2025-03-25 01:43:26,416 INFO ipython === bench console session ===
+2025-03-25 01:43:26,416 INFO ipython === session end ===
+2025-04-06 15:58:50,206 INFO ipython === bench console session ===
+2025-04-06 15:58:50,207 INFO ipython frappe.get_hooks("Order Tracking")
+2025-04-06 15:58:50,207 INFO ipython order_tracking.get_hooks("")
+2025-04-06 15:58:50,207 INFO ipython === session end ===
+2025-04-06 21:45:46,020 INFO ipython === bench console session ===
+2025-04-06 21:45:46,021 INFO ipython import frappe
+frappe.get_all('Session')  # To see all active sessions
+2025-04-06 21:45:46,021 INFO ipython import frappe
+user = frappe.get_doc("User", "Administrator")  # Replace with your username
+print(user)
+2025-04-06 21:45:46,021 INFO ipython === session end ===
+2025-06-30 20:53:29,079 INFO ipython === bench console session ===
+2025-06-30 20:53:29,080 INFO ipython import frappe
+import order_tracking.api as tracking_api
+2025-06-30 20:53:29,081 INFO ipython doc = frappe.get_doc("Payment Entry", "PE-00001")
+2025-06-30 20:53:29,081 INFO ipython doc = frappe.get_doc("Payment Entry", "SAL-ORD-2025-00328")
+2025-06-30 20:53:29,081 INFO ipython eixt
+2025-06-30 20:53:29,081 INFO ipython === session end ===
+2025-07-03 04:48:21,961 INFO ipython === bench console session ===
+2025-07-03 04:48:21,963 INFO ipython frappe.get_meta("Payment Request").get_field("redirect_to")
+2025-07-03 04:48:21,963 INFO ipython === session end ===
+2025-07-04 11:38:12,467 INFO ipython === bench console session ===
+2025-07-04 11:38:12,468 INFO ipython frappe.get_doc("Order Tracking", {"tracking_id": "cjq9qc1a8k"}).as_dict()
+2025-07-04 11:38:12,468 INFO ipython frappe.get_doc("Order Tracking", {"name": "cjq9qc1a8k"}).as_dict()
+2025-07-04 11:38:12,468 INFO ipython === session end ===
+2025-07-04 11:44:09,873 INFO ipython === bench console session ===
+2025-07-04 11:44:09,874 INFO ipython frappe.get_doc("Order Tracking", {"name": "cjq9qc1a8k"}).as_dict()
+2025-07-04 11:44:09,874 INFO ipython === session end ===
+2025-07-04 13:40:08,668 INFO ipython === bench console session ===
+2025-07-04 13:40:08,670 INFO ipython (async () => {
+  const trackingId = "cjq9qc1a8k";
+  try {
+    const res = await fetch(`/api/method/order_tracking.api.get_tracking_info?tracking_id=${trackingId}`);
+    const data = await res.json();
+    console.log("Response OK:", res.ok);
+    console.log("Full API response:", data);
+    if (!res.ok) throw new Error(data.message || "Request failed");
+    if (!data.message) throw new Error("No message returned from backend");
+
+    const {
+      driver_lat,
+      driver_lng,
+      warehouse_lat,
+      warehouse_lng,
+      customer_lat,
+      customer_lng
+    } = data.message;
+
+    console.table({
+      driver_lat, driver_lng,
+      warehouse_lat, warehouse_lng,
+      customer_lat, customer_lng
+    });
+  } catch (err) {
+    console.error("❌ API fetch error:", err);
+  }
+})();
+2025-07-04 13:40:08,670 INFO ipython === session end ===
+2025-07-04 13:52:48,184 INFO ipython === bench console session ===
+2025-07-04 13:52:48,184 INFO ipython frappe.get_doc("Order Tracking", {"name": "cjq9qc1a8k"}).as_dict()
+2025-07-04 13:52:48,184 INFO ipython (async () => {
+  const trackingId = "cjq9qc1a8k";
+  try {
+    const res = await fetch(`/api/method/order_tracking.api.get_tracking_info?tracking_id=${trackingId}`);
+    const data = await res.json();
+    console.log("Response OK:", res.ok);
+    console.log("Full API response:", data);
+    if (!res.ok) throw new Error(data.message || "Request failed");
+    if (!data.message) throw new Error("No message returned from backend");
+
+    const {
+      driver_lat,
+      driver_lng,
+      warehouse_lat,
+      warehouse_lng,
+      customer_lat,
+      customer_lng
+    } = data.message;
+
+    console.table({
+      driver_lat, driver_lng,
+      warehouse_lat, warehouse_lng,
+      customer_lat, customer_lng
+    });
+  } catch (err) {
+    console.error("❌ API fetch error:", err);
+  }
+  
+  
+})();
+2025-07-04 13:52:48,184 INFO ipython eixt
+2025-07-04 13:52:48,184 INFO ipython === session end ===
+2025-07-04 14:14:55,471 INFO ipython === bench console session ===
+2025-07-04 14:14:55,471 INFO ipython (async () => {
+  const trackingId = "cjq9qc1a8k";
+  try {
+    const res = await fetch(`/api/method/order_tracking.api.get_tracking_info?tracking_id=${trackingId}`);
+    const data = await res.json();
+    console.log("Response OK:", res.ok);
+    console.log("Full API response:", data);
+    if (!res.ok) throw new Error(data.message || "Request failed");
+    if (!data.message) throw new Error("No message returned from backend");
+
+    const {
+      driver_lat,
+      driver_lng,
+      warehouse_lat,
+      warehouse_lng,
+      customer_lat,
+      customer_lng
+    } = data.message;
+
+    console.table({
+      driver_lat, driver_lng,
+      warehouse_lat, warehouse_lng,
+      customer_lat, customer_lng
+    });
+  } catch (err) {
+    console.error("❌ API fetch error:", err);
+  }
+  
+  
+})();
+2025-07-04 14:14:55,472 INFO ipython === session end ===

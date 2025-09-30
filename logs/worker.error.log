@@ -1,0 +1,18 @@
+2025-07-01 02:08:58,996 [Job app.orderitdelivery.com::043c80ee-fefd-44b4-9c6f-0023d73c163c]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1428, in perform_job
+    rv = job.perform()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1278, in perform
+    self._result = self._execute()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1315, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 262, in execute_job
+    frappe.local.job.after_job.run()
+  File "/home/frappe/frappe-bench/env/lib/python3.10/site-packages/werkzeug/local.py", line 88, in __getattr__
+    raise AttributeError(name)
+AttributeError: job
+
+2025-07-01 17:26:39,850 Worker rq:worker:82ac341fb0d9464bb462e39d8505eecc: Redis connection timeout, quitting...
+2025-07-01 17:29:21,172 Worker rq:worker:8429901a492e4d1a9c838694df94ab4e: Redis connection timeout, quitting...
+2025-07-04 11:54:04,297 Worker rq:worker:525e4d8844f14c5ea1958a83347f8980: Redis connection timeout, quitting...
+2025-07-04 11:54:04,382 Worker rq:worker:e5acd2d501764942acd84673a09912c6: Redis connection timeout, quitting...

@@ -1,0 +1,131 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "15.56.1"
+    },
+    "payments": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "4919784ed8d80e03bc1f2384e291faa44dd083e7",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    },
+    "erpnext": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "9e824fc4fea15752ad3d5b788899ca54dc13a89c",
+            "branch": "version-15"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "15.53.1"
+    },
+    "webshop": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "fa7c7026026f08895d9a3be79b137d47b7e9f33f",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "0.0.1"
+    },
+    "custom_website_orderit": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "158117e80e82823b16fcba45339b01c7e2601d82",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 5,
+        "version": "0.0.1"
+    },
+    "hrms": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "9f51ddb87a75762c33dc99ca9a5d20886a306812",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 6,
+        "version": "16.0.0-dev"
+    },
+    "cart_redirect": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "18214769067676252d9c146858539c41d409361b",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 7,
+        "version": "0.0.1"
+    },
+    "user_lat_lon": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "cbd8e031423a5870b899671c1b250cdacab9dd98",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 8,
+        "version": "0.0.1"
+    },
+    "order_tracking": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "af289423bb21470ff92ecbc490690c1f7128abef",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 9,
+        "version": "0.0.1"
+    },
+    "supplier_reg": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "a06a3952e68ba771d5839e27ed34617a083025b0",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 10,
+        "version": "0.0.1"
+    },
+    "shopowner": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "73ff34e7fbfab7f64124038baa27cebfcd592d3d",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 11,
+        "version": "0.0.1"
+    },
+    "business_owner": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "aac8b3633c52e5529310a56e835a42d9bc8da53c",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 13,
+        "version": "0.0.1"
+    },
+    "orderitdriver": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "61195ab0abb97537213bda271374eefff00ff81a",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 13,
+        "version": "0.0.1"
+    }
+}

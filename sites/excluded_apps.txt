@@ -1,0 +1,7 @@
+user_lat_lon
+supplier_reg
+cart_redirect
+custom_website_orderit
+order_tracking
+business_owner
+shopowner

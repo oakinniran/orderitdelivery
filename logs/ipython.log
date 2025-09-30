@@ -1,0 +1,113 @@
+2025-06-30 20:53:29,079 INFO ipython === bench console session ===
+2025-06-30 20:53:29,080 INFO ipython import frappe
+import order_tracking.api as tracking_api
+2025-06-30 20:53:29,081 INFO ipython doc = frappe.get_doc("Payment Entry", "PE-00001")
+2025-06-30 20:53:29,081 INFO ipython doc = frappe.get_doc("Payment Entry", "SAL-ORD-2025-00328")
+2025-06-30 20:53:29,081 INFO ipython eixt
+2025-06-30 20:53:29,081 INFO ipython === session end ===
+2025-07-03 04:48:21,961 INFO ipython === bench console session ===
+2025-07-03 04:48:21,963 INFO ipython frappe.get_meta("Payment Request").get_field("redirect_to")
+2025-07-03 04:48:21,963 INFO ipython === session end ===
+2025-07-04 11:38:12,467 INFO ipython === bench console session ===
+2025-07-04 11:38:12,468 INFO ipython frappe.get_doc("Order Tracking", {"tracking_id": "cjq9qc1a8k"}).as_dict()
+2025-07-04 11:38:12,468 INFO ipython frappe.get_doc("Order Tracking", {"name": "cjq9qc1a8k"}).as_dict()
+2025-07-04 11:38:12,468 INFO ipython === session end ===
+2025-07-04 11:44:09,873 INFO ipython === bench console session ===
+2025-07-04 11:44:09,874 INFO ipython frappe.get_doc("Order Tracking", {"name": "cjq9qc1a8k"}).as_dict()
+2025-07-04 11:44:09,874 INFO ipython === session end ===
+2025-07-04 13:40:08,668 INFO ipython === bench console session ===
+2025-07-04 13:40:08,670 INFO ipython (async () => {
+  const trackingId = "cjq9qc1a8k";
+  try {
+    const res = await fetch(`/api/method/order_tracking.api.get_tracking_info?tracking_id=${trackingId}`);
+    const data = await res.json();
+    console.log("Response OK:", res.ok);
+    console.log("Full API response:", data);
+    if (!res.ok) throw new Error(data.message || "Request failed");
+    if (!data.message) throw new Error("No message returned from backend");
+
+    const {
+      driver_lat,
+      driver_lng,
+      warehouse_lat,
+      warehouse_lng,
+      customer_lat,
+      customer_lng
+    } = data.message;
+
+    console.table({
+      driver_lat, driver_lng,
+      warehouse_lat, warehouse_lng,
+      customer_lat, customer_lng
+    });
+  } catch (err) {
+    console.error("❌ API fetch error:", err);
+  }
+})();
+2025-07-04 13:40:08,670 INFO ipython === session end ===
+2025-07-04 13:52:48,184 INFO ipython === bench console session ===
+2025-07-04 13:52:48,184 INFO ipython frappe.get_doc("Order Tracking", {"name": "cjq9qc1a8k"}).as_dict()
+2025-07-04 13:52:48,184 INFO ipython (async () => {
+  const trackingId = "cjq9qc1a8k";
+  try {
+    const res = await fetch(`/api/method/order_tracking.api.get_tracking_info?tracking_id=${trackingId}`);
+    const data = await res.json();
+    console.log("Response OK:", res.ok);
+    console.log("Full API response:", data);
+    if (!res.ok) throw new Error(data.message || "Request failed");
+    if (!data.message) throw new Error("No message returned from backend");
+
+    const {
+      driver_lat,
+      driver_lng,
+      warehouse_lat,
+      warehouse_lng,
+      customer_lat,
+      customer_lng
+    } = data.message;
+
+    console.table({
+      driver_lat, driver_lng,
+      warehouse_lat, warehouse_lng,
+      customer_lat, customer_lng
+    });
+  } catch (err) {
+    console.error("❌ API fetch error:", err);
+  }
+  
+  
+})();
+2025-07-04 13:52:48,184 INFO ipython eixt
+2025-07-04 13:52:48,184 INFO ipython === session end ===
+2025-07-04 14:14:55,471 INFO ipython === bench console session ===
+2025-07-04 14:14:55,471 INFO ipython (async () => {
+  const trackingId = "cjq9qc1a8k";
+  try {
+    const res = await fetch(`/api/method/order_tracking.api.get_tracking_info?tracking_id=${trackingId}`);
+    const data = await res.json();
+    console.log("Response OK:", res.ok);
+    console.log("Full API response:", data);
+    if (!res.ok) throw new Error(data.message || "Request failed");
+    if (!data.message) throw new Error("No message returned from backend");
+
+    const {
+      driver_lat,
+      driver_lng,
+      warehouse_lat,
+      warehouse_lng,
+      customer_lat,
+      customer_lng
+    } = data.message;
+
+    console.table({
+      driver_lat, driver_lng,
+      warehouse_lat, warehouse_lng,
+      customer_lat, customer_lng
+    });
+  } catch (err) {
+    console.error("❌ API fetch error:", err);
+  }
+  
+  
+})();
+2025-07-04 14:14:55,472 INFO ipython === session end ===

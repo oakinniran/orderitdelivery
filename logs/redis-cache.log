@@ -1,0 +1,1260 @@
+1161:C 20 Apr 2025 05:52:20.930 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1161:C 20 Apr 2025 05:52:20.930 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1161, just started
+1161:C 20 Apr 2025 05:52:20.930 # Configuration loaded
+1161:M 20 Apr 2025 05:52:20.930 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1161:M 20 Apr 2025 05:52:20.930 * monotonic clock: POSIX clock_gettime
+1161:M 20 Apr 2025 05:52:20.934 * Running mode=standalone, port=13000.
+1161:M 20 Apr 2025 05:52:20.934 # Server initialized
+1161:M 20 Apr 2025 05:52:20.937 * Ready to accept connections
+1161:signal-handler (1745152422) Received SIGTERM scheduling shutdown...
+1161:M 20 Apr 2025 12:33:42.313 # User requested shutdown...
+1161:M 20 Apr 2025 12:33:42.313 * Removing the pid file.
+1161:M 20 Apr 2025 12:33:42.313 # Redis is now ready to exit, bye bye...
+8139:C 20 Apr 2025 13:45:40.496 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+8139:C 20 Apr 2025 13:45:40.497 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=8139, just started
+8139:C 20 Apr 2025 13:45:40.497 # Configuration loaded
+8139:M 20 Apr 2025 13:45:40.498 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+8139:M 20 Apr 2025 13:45:40.498 * monotonic clock: POSIX clock_gettime
+8139:M 20 Apr 2025 13:45:40.502 * Running mode=standalone, port=13000.
+8139:M 20 Apr 2025 13:45:40.502 # Server initialized
+8139:M 20 Apr 2025 13:45:40.502 * Ready to accept connections
+8139:signal-handler (1745167778) Received SIGTERM scheduling shutdown...
+8139:M 20 Apr 2025 16:49:38.555 # User requested shutdown...
+8139:M 20 Apr 2025 16:49:38.556 * Removing the pid file.
+8139:M 20 Apr 2025 16:49:38.556 # Redis is now ready to exit, bye bye...
+1107:C 20 Apr 2025 16:50:23.116 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1107:C 20 Apr 2025 16:50:23.116 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1107, just started
+1107:C 20 Apr 2025 16:50:23.116 # Configuration loaded
+1107:M 20 Apr 2025 16:50:23.117 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1107:M 20 Apr 2025 16:50:23.117 * monotonic clock: POSIX clock_gettime
+1107:M 20 Apr 2025 16:50:23.124 * Running mode=standalone, port=13000.
+1107:M 20 Apr 2025 16:50:23.124 # Server initialized
+1107:M 20 Apr 2025 16:50:23.130 * Ready to accept connections
+1107:signal-handler (1745169610) Received SIGTERM scheduling shutdown...
+1107:M 20 Apr 2025 17:20:10.828 # User requested shutdown...
+1107:M 20 Apr 2025 17:20:10.828 * Removing the pid file.
+1107:M 20 Apr 2025 17:20:10.828 # Redis is now ready to exit, bye bye...
+3286:C 20 Apr 2025 17:20:12.286 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+3286:C 20 Apr 2025 17:20:12.286 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=3286, just started
+3286:C 20 Apr 2025 17:20:12.286 # Configuration loaded
+3286:M 20 Apr 2025 17:20:12.288 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+3286:M 20 Apr 2025 17:20:12.288 * monotonic clock: POSIX clock_gettime
+3286:M 20 Apr 2025 17:20:12.290 * Running mode=standalone, port=13000.
+3286:M 20 Apr 2025 17:20:12.290 # Server initialized
+3286:M 20 Apr 2025 17:20:12.291 * Ready to accept connections
+3286:signal-handler (1745170089) Received SIGTERM scheduling shutdown...
+3286:M 20 Apr 2025 17:28:09.985 # User requested shutdown...
+3286:M 20 Apr 2025 17:28:09.985 * Removing the pid file.
+3286:M 20 Apr 2025 17:28:09.985 # Redis is now ready to exit, bye bye...
+3377:C 20 Apr 2025 17:28:10.252 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+3377:C 20 Apr 2025 17:28:10.252 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=3377, just started
+3377:C 20 Apr 2025 17:28:10.252 # Configuration loaded
+3377:M 20 Apr 2025 17:28:10.252 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+3377:M 20 Apr 2025 17:28:10.252 * monotonic clock: POSIX clock_gettime
+3377:M 20 Apr 2025 17:28:10.253 * Running mode=standalone, port=13000.
+3377:M 20 Apr 2025 17:28:10.253 # Server initialized
+3377:M 20 Apr 2025 17:28:10.254 * Ready to accept connections
+3377:signal-handler (1745177017) Received SIGTERM scheduling shutdown...
+3377:M 20 Apr 2025 19:23:37.859 # User requested shutdown...
+3377:M 20 Apr 2025 19:23:37.859 * Removing the pid file.
+3377:M 20 Apr 2025 19:23:37.859 # Redis is now ready to exit, bye bye...
+1096:C 20 Apr 2025 19:24:21.196 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1096:C 20 Apr 2025 19:24:21.196 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1096, just started
+1096:C 20 Apr 2025 19:24:21.196 # Configuration loaded
+1096:M 20 Apr 2025 19:24:21.196 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1096:M 20 Apr 2025 19:24:21.196 * monotonic clock: POSIX clock_gettime
+1096:M 20 Apr 2025 19:24:21.205 * Running mode=standalone, port=13000.
+1096:M 20 Apr 2025 19:24:21.205 # Server initialized
+1096:M 20 Apr 2025 19:24:21.206 * Ready to accept connections
+1096:signal-handler (1745182121) Received SIGTERM scheduling shutdown...
+1096:M 20 Apr 2025 20:48:41.229 # User requested shutdown...
+1096:M 20 Apr 2025 20:48:41.229 * Removing the pid file.
+1096:M 20 Apr 2025 20:48:41.229 # Redis is now ready to exit, bye bye...
+2123:C 20 Apr 2025 20:48:42.519 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2123:C 20 Apr 2025 20:48:42.519 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=2123, just started
+2123:C 20 Apr 2025 20:48:42.519 # Configuration loaded
+2123:M 20 Apr 2025 20:48:42.520 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+2123:M 20 Apr 2025 20:48:42.520 * monotonic clock: POSIX clock_gettime
+2123:M 20 Apr 2025 20:48:42.522 * Running mode=standalone, port=13000.
+2123:M 20 Apr 2025 20:48:42.522 # Server initialized
+2123:M 20 Apr 2025 20:48:42.523 * Ready to accept connections
+2123:signal-handler (1745182346) Received SIGTERM scheduling shutdown...
+2123:M 20 Apr 2025 20:52:26.549 # User requested shutdown...
+2123:M 20 Apr 2025 20:52:26.549 * Removing the pid file.
+2123:M 20 Apr 2025 20:52:26.549 # Redis is now ready to exit, bye bye...
+1114:C 20 Apr 2025 20:53:10.783 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1114:C 20 Apr 2025 20:53:10.783 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1114, just started
+1114:C 20 Apr 2025 20:53:10.783 # Configuration loaded
+1114:M 20 Apr 2025 20:53:10.783 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1114:M 20 Apr 2025 20:53:10.783 * monotonic clock: POSIX clock_gettime
+1114:M 20 Apr 2025 20:53:10.787 * Running mode=standalone, port=13000.
+1114:M 20 Apr 2025 20:53:10.787 # Server initialized
+1114:M 20 Apr 2025 20:53:10.789 * Ready to accept connections
+1114:signal-handler (1745182467) Received SIGTERM scheduling shutdown...
+1114:M 20 Apr 2025 20:54:27.429 # User requested shutdown...
+1114:M 20 Apr 2025 20:54:27.429 * Removing the pid file.
+1114:M 20 Apr 2025 20:54:27.429 # Redis is now ready to exit, bye bye...
+1327:C 20 Apr 2025 20:54:28.742 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1327:C 20 Apr 2025 20:54:28.742 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1327, just started
+1327:C 20 Apr 2025 20:54:28.742 # Configuration loaded
+1327:M 20 Apr 2025 20:54:28.742 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1327:M 20 Apr 2025 20:54:28.742 * monotonic clock: POSIX clock_gettime
+1327:M 20 Apr 2025 20:54:28.743 * Running mode=standalone, port=13000.
+1327:M 20 Apr 2025 20:54:28.743 # Server initialized
+1327:M 20 Apr 2025 20:54:28.743 * Ready to accept connections
+1327:signal-handler (1745192293) Received SIGTERM scheduling shutdown...
+1327:M 20 Apr 2025 23:38:13.661 # User requested shutdown...
+1327:M 20 Apr 2025 23:38:13.661 * Removing the pid file.
+1327:M 20 Apr 2025 23:38:13.661 # Redis is now ready to exit, bye bye...
+3017:C 20 Apr 2025 23:38:14.036 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+3017:C 20 Apr 2025 23:38:14.036 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=3017, just started
+3017:C 20 Apr 2025 23:38:14.036 # Configuration loaded
+3017:M 20 Apr 2025 23:38:14.036 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+3017:M 20 Apr 2025 23:38:14.036 * monotonic clock: POSIX clock_gettime
+3017:M 20 Apr 2025 23:38:14.037 * Running mode=standalone, port=13000.
+3017:M 20 Apr 2025 23:38:14.037 # Server initialized
+3017:M 20 Apr 2025 23:38:14.037 * Ready to accept connections
+3017:signal-handler (1745203070) Received SIGTERM scheduling shutdown...
+3017:M 21 Apr 2025 02:37:51.084 # User requested shutdown...
+3017:M 21 Apr 2025 02:37:51.084 * Removing the pid file.
+3017:M 21 Apr 2025 02:37:51.084 # Redis is now ready to exit, bye bye...
+6213:C 21 Apr 2025 02:58:26.512 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+6213:C 21 Apr 2025 02:58:26.512 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=6213, just started
+6213:C 21 Apr 2025 02:58:26.512 # Configuration loaded
+6213:M 21 Apr 2025 02:58:26.513 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+6213:M 21 Apr 2025 02:58:26.513 * monotonic clock: POSIX clock_gettime
+6213:M 21 Apr 2025 02:58:26.514 * Running mode=standalone, port=13000.
+6213:M 21 Apr 2025 02:58:26.514 # Server initialized
+6213:M 21 Apr 2025 02:58:26.517 * Ready to accept connections
+6213:signal-handler (1745206052) Received SIGTERM scheduling shutdown...
+6213:M 21 Apr 2025 03:27:32.389 # User requested shutdown...
+6213:M 21 Apr 2025 03:27:32.389 * Removing the pid file.
+6213:M 21 Apr 2025 03:27:32.389 # Redis is now ready to exit, bye bye...
+1112:C 21 Apr 2025 03:28:16.469 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1112:C 21 Apr 2025 03:28:16.469 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1112, just started
+1112:C 21 Apr 2025 03:28:16.469 # Configuration loaded
+1112:M 21 Apr 2025 03:28:16.470 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1112:M 21 Apr 2025 03:28:16.471 * monotonic clock: POSIX clock_gettime
+1112:M 21 Apr 2025 03:28:16.487 * Running mode=standalone, port=13000.
+1112:M 21 Apr 2025 03:28:16.487 # Server initialized
+1112:M 21 Apr 2025 03:28:16.490 * Ready to accept connections
+1112:signal-handler (1745207036) Received SIGTERM scheduling shutdown...
+1112:M 21 Apr 2025 03:43:56.395 # User requested shutdown...
+1112:M 21 Apr 2025 03:43:56.395 * Removing the pid file.
+1112:M 21 Apr 2025 03:43:56.395 # Redis is now ready to exit, bye bye...
+1513:C 21 Apr 2025 03:43:57.668 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1513:C 21 Apr 2025 03:43:57.668 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1513, just started
+1513:C 21 Apr 2025 03:43:57.668 # Configuration loaded
+1513:M 21 Apr 2025 03:43:57.668 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1513:M 21 Apr 2025 03:43:57.668 * monotonic clock: POSIX clock_gettime
+1513:M 21 Apr 2025 03:43:57.669 * Running mode=standalone, port=13000.
+1513:M 21 Apr 2025 03:43:57.669 # Server initialized
+1513:M 21 Apr 2025 03:43:57.670 * Ready to accept connections
+1135:C 21 Apr 2025 03:54:06.803 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1135:C 21 Apr 2025 03:54:06.803 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1135, just started
+1135:C 21 Apr 2025 03:54:06.803 # Configuration loaded
+1135:M 21 Apr 2025 03:54:06.805 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1135:M 21 Apr 2025 03:54:06.805 * monotonic clock: POSIX clock_gettime
+1135:M 21 Apr 2025 03:54:06.808 * Running mode=standalone, port=13000.
+1135:M 21 Apr 2025 03:54:06.808 # Server initialized
+1135:M 21 Apr 2025 03:54:06.810 * Ready to accept connections
+1135:signal-handler (1745378910) Received SIGTERM scheduling shutdown...
+1135:M 23 Apr 2025 03:28:30.425 # User requested shutdown...
+1135:M 23 Apr 2025 03:28:30.426 * Removing the pid file.
+1135:M 23 Apr 2025 03:28:30.426 # Redis is now ready to exit, bye bye...
+40096:C 23 Apr 2025 03:38:02.636 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+40096:C 23 Apr 2025 03:38:02.636 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=40096, just started
+40096:C 23 Apr 2025 03:38:02.636 # Configuration loaded
+40096:M 23 Apr 2025 03:38:02.638 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+40096:M 23 Apr 2025 03:38:02.638 * monotonic clock: POSIX clock_gettime
+40096:M 23 Apr 2025 03:38:02.639 * Running mode=standalone, port=13000.
+40096:M 23 Apr 2025 03:38:02.639 # Server initialized
+40096:M 23 Apr 2025 03:38:02.642 * Ready to accept connections
+40096:signal-handler (1745379817) Received SIGTERM scheduling shutdown...
+40096:M 23 Apr 2025 03:43:37.702 # User requested shutdown...
+40096:M 23 Apr 2025 03:43:37.702 * Removing the pid file.
+40096:M 23 Apr 2025 03:43:37.702 # Redis is now ready to exit, bye bye...
+40218:C 23 Apr 2025 03:43:38.899 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+40218:C 23 Apr 2025 03:43:38.899 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=40218, just started
+40218:C 23 Apr 2025 03:43:38.899 # Configuration loaded
+40218:M 23 Apr 2025 03:43:38.899 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+40218:M 23 Apr 2025 03:43:38.899 * monotonic clock: POSIX clock_gettime
+40218:M 23 Apr 2025 03:43:38.900 * Running mode=standalone, port=13000.
+40218:M 23 Apr 2025 03:43:38.900 # Server initialized
+40218:M 23 Apr 2025 03:43:38.900 * Ready to accept connections
+40218:signal-handler (1745379987) Received SIGTERM scheduling shutdown...
+40218:M 23 Apr 2025 03:46:27.664 # User requested shutdown...
+40218:M 23 Apr 2025 03:46:27.664 * Removing the pid file.
+40218:M 23 Apr 2025 03:46:27.664 # Redis is now ready to exit, bye bye...
+40338:C 23 Apr 2025 03:46:28.888 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+40338:C 23 Apr 2025 03:46:28.888 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=40338, just started
+40338:C 23 Apr 2025 03:46:28.888 # Configuration loaded
+40338:M 23 Apr 2025 03:46:28.888 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+40338:M 23 Apr 2025 03:46:28.888 * monotonic clock: POSIX clock_gettime
+40338:M 23 Apr 2025 03:46:28.889 * Running mode=standalone, port=13000.
+40338:M 23 Apr 2025 03:46:28.889 # Server initialized
+40338:M 23 Apr 2025 03:46:28.889 * Ready to accept connections
+40338:signal-handler (1745633962) Received SIGTERM scheduling shutdown...
+40338:M 26 Apr 2025 02:19:22.545 # User requested shutdown...
+40338:M 26 Apr 2025 02:19:22.545 * Removing the pid file.
+40338:M 26 Apr 2025 02:19:22.545 # Redis is now ready to exit, bye bye...
+86749:C 26 Apr 2025 03:41:46.634 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+86749:C 26 Apr 2025 03:41:46.634 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=86749, just started
+86749:C 26 Apr 2025 03:41:46.634 # Configuration loaded
+86749:M 26 Apr 2025 03:41:46.634 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+86749:M 26 Apr 2025 03:41:46.634 * monotonic clock: POSIX clock_gettime
+86749:M 26 Apr 2025 03:41:46.635 * Running mode=standalone, port=13000.
+86749:M 26 Apr 2025 03:41:46.635 # Server initialized
+86749:M 26 Apr 2025 03:41:46.636 * Ready to accept connections
+86749:signal-handler (1746027543) Received SIGTERM scheduling shutdown...
+86749:M 30 Apr 2025 15:39:03.939 # User requested shutdown...
+86749:M 30 Apr 2025 15:39:03.939 * Removing the pid file.
+86749:M 30 Apr 2025 15:39:03.940 # Redis is now ready to exit, bye bye...
+1077:C 30 Apr 2025 15:39:47.363 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1077:C 30 Apr 2025 15:39:47.363 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1077, just started
+1077:C 30 Apr 2025 15:39:47.363 # Configuration loaded
+1077:M 30 Apr 2025 15:39:47.370 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1077:M 30 Apr 2025 15:39:47.370 * monotonic clock: POSIX clock_gettime
+1077:M 30 Apr 2025 15:39:47.380 * Running mode=standalone, port=13000.
+1077:M 30 Apr 2025 15:39:47.380 # Server initialized
+1077:M 30 Apr 2025 15:39:47.381 * Ready to accept connections
+1077:signal-handler (1746028734) Received SIGTERM scheduling shutdown...
+1077:M 30 Apr 2025 15:58:54.465 # User requested shutdown...
+1077:M 30 Apr 2025 15:58:54.465 * Removing the pid file.
+1077:M 30 Apr 2025 15:58:54.466 # Redis is now ready to exit, bye bye...
+1073:C 30 Apr 2025 15:59:40.346 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1073:C 30 Apr 2025 15:59:40.346 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1073, just started
+1073:C 30 Apr 2025 15:59:40.346 # Configuration loaded
+1073:M 30 Apr 2025 15:59:40.348 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1073:M 30 Apr 2025 15:59:40.348 * monotonic clock: POSIX clock_gettime
+1073:M 30 Apr 2025 15:59:40.354 * Running mode=standalone, port=13000.
+1073:M 30 Apr 2025 15:59:40.354 # Server initialized
+1073:M 30 Apr 2025 15:59:40.357 * Ready to accept connections
+1073:signal-handler (1746029527) Received SIGTERM scheduling shutdown...
+1073:M 30 Apr 2025 16:12:07.713 # User requested shutdown...
+1073:M 30 Apr 2025 16:12:07.713 * Removing the pid file.
+1073:M 30 Apr 2025 16:12:07.713 # Redis is now ready to exit, bye bye...
+1088:C 30 Apr 2025 16:12:51.737 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1088:C 30 Apr 2025 16:12:51.737 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1088, just started
+1088:C 30 Apr 2025 16:12:51.737 # Configuration loaded
+1088:M 30 Apr 2025 16:12:51.737 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1088:M 30 Apr 2025 16:12:51.737 * monotonic clock: POSIX clock_gettime
+1088:M 30 Apr 2025 16:12:51.749 * Running mode=standalone, port=13000.
+1088:M 30 Apr 2025 16:12:51.752 # Server initialized
+1088:M 30 Apr 2025 16:12:51.761 * Ready to accept connections
+1088:signal-handler (1746031875) Received SIGTERM scheduling shutdown...
+1088:M 30 Apr 2025 16:51:15.659 # User requested shutdown...
+1088:M 30 Apr 2025 16:51:15.659 * Removing the pid file.
+1088:M 30 Apr 2025 16:51:15.659 # Redis is now ready to exit, bye bye...
+1079:C 30 Apr 2025 16:51:59.575 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1079:C 30 Apr 2025 16:51:59.575 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1079, just started
+1079:C 30 Apr 2025 16:51:59.575 # Configuration loaded
+1079:M 30 Apr 2025 16:51:59.576 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1079:M 30 Apr 2025 16:51:59.576 * monotonic clock: POSIX clock_gettime
+1079:M 30 Apr 2025 16:51:59.582 * Running mode=standalone, port=13000.
+1079:M 30 Apr 2025 16:51:59.585 # Server initialized
+1079:M 30 Apr 2025 16:51:59.588 * Ready to accept connections
+1079:signal-handler (1746061440) Received SIGTERM scheduling shutdown...
+1079:M 01 May 2025 01:04:00.758 # User requested shutdown...
+1079:M 01 May 2025 01:04:00.758 * Removing the pid file.
+1079:M 01 May 2025 01:04:00.758 # Redis is now ready to exit, bye bye...
+1067:C 01 May 2025 14:11:06.915 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1067:C 01 May 2025 14:11:06.915 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1067, just started
+1067:C 01 May 2025 14:11:06.915 # Configuration loaded
+1067:M 01 May 2025 14:11:06.916 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1067:M 01 May 2025 14:11:06.916 * monotonic clock: POSIX clock_gettime
+1067:M 01 May 2025 14:11:06.917 * Running mode=standalone, port=13000.
+1067:M 01 May 2025 14:11:06.917 # Server initialized
+1067:M 01 May 2025 14:11:06.917 * Ready to accept connections
+1010:C 01 May 2025 14:16:10.841 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1010:C 01 May 2025 14:16:10.841 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1010, just started
+1010:C 01 May 2025 14:16:10.841 # Configuration loaded
+1010:M 01 May 2025 14:16:10.842 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1010:M 01 May 2025 14:16:10.842 * monotonic clock: POSIX clock_gettime
+1010:M 01 May 2025 14:16:10.843 * Running mode=standalone, port=13000.
+1010:M 01 May 2025 14:16:10.843 # Server initialized
+1010:M 01 May 2025 14:16:10.880 * Ready to accept connections
+1010:signal-handler (1746109977) Received SIGTERM scheduling shutdown...
+1010:M 01 May 2025 14:32:57.387 # User requested shutdown...
+1010:M 01 May 2025 14:32:57.387 * Removing the pid file.
+1010:M 01 May 2025 14:32:57.387 # Redis is now ready to exit, bye bye...
+1136:C 01 May 2025 14:33:41.969 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1136:C 01 May 2025 14:33:41.969 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1136, just started
+1136:C 01 May 2025 14:33:41.969 # Configuration loaded
+1136:M 01 May 2025 14:33:41.969 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1136:M 01 May 2025 14:33:41.969 * monotonic clock: POSIX clock_gettime
+1136:M 01 May 2025 14:33:41.984 * Running mode=standalone, port=13000.
+1136:M 01 May 2025 14:33:41.984 # Server initialized
+1136:M 01 May 2025 14:33:41.984 * Ready to accept connections
+1075:C 01 May 2025 14:34:55.086 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1075:C 01 May 2025 14:34:55.086 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1075, just started
+1075:C 01 May 2025 14:34:55.086 # Configuration loaded
+1075:M 01 May 2025 14:34:55.087 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1075:M 01 May 2025 14:34:55.087 * monotonic clock: POSIX clock_gettime
+1075:M 01 May 2025 14:34:55.099 * Running mode=standalone, port=13000.
+1075:M 01 May 2025 14:34:55.099 # Server initialized
+1075:M 01 May 2025 14:34:55.100 * Ready to accept connections
+1075:signal-handler (1751078663) Received SIGTERM scheduling shutdown...
+1075:M 28 Jun 2025 02:44:23.740 # User requested shutdown...
+1075:M 28 Jun 2025 02:44:23.740 * Removing the pid file.
+1075:M 28 Jun 2025 02:44:23.740 # Redis is now ready to exit, bye bye...
+402717:C 28 Jun 2025 02:44:26.078 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+402717:C 28 Jun 2025 02:44:26.078 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=402717, just started
+402717:C 28 Jun 2025 02:44:26.078 # Configuration loaded
+402717:M 28 Jun 2025 02:44:26.079 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+402717:M 28 Jun 2025 02:44:26.079 * monotonic clock: POSIX clock_gettime
+402717:M 28 Jun 2025 02:44:26.080 * Running mode=standalone, port=13000.
+402717:M 28 Jun 2025 02:44:26.080 # Server initialized
+402717:M 28 Jun 2025 02:44:26.086 * Ready to accept connections
+402717:signal-handler (1751078677) Received SIGTERM scheduling shutdown...
+402717:M 28 Jun 2025 02:44:37.042 # User requested shutdown...
+402717:M 28 Jun 2025 02:44:37.042 * Removing the pid file.
+402717:M 28 Jun 2025 02:44:37.042 # Redis is now ready to exit, bye bye...
+1096:C 28 Jun 2025 02:45:24.723 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1096:C 28 Jun 2025 02:45:24.723 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1096, just started
+1096:C 28 Jun 2025 02:45:24.723 # Configuration loaded
+1096:M 28 Jun 2025 02:45:24.724 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1096:M 28 Jun 2025 02:45:24.724 * monotonic clock: POSIX clock_gettime
+1096:M 28 Jun 2025 02:45:24.729 * Running mode=standalone, port=13000.
+1096:M 28 Jun 2025 02:45:24.729 # Server initialized
+1096:M 28 Jun 2025 02:45:24.730 * Ready to accept connections
+1089:C 28 Jun 2025 02:59:45.302 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1089:C 28 Jun 2025 02:59:45.302 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1089, just started
+1089:C 28 Jun 2025 02:59:45.302 # Configuration loaded
+1089:M 28 Jun 2025 02:59:45.302 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1089:M 28 Jun 2025 02:59:45.302 * monotonic clock: POSIX clock_gettime
+1089:M 28 Jun 2025 02:59:45.350 * Running mode=standalone, port=13000.
+1089:M 28 Jun 2025 02:59:45.351 # Server initialized
+1089:M 28 Jun 2025 02:59:45.351 * Ready to accept connections
+1089:signal-handler (1751079910) Received SIGTERM scheduling shutdown...
+1089:M 28 Jun 2025 03:05:10.813 # User requested shutdown...
+1089:M 28 Jun 2025 03:05:10.813 * Removing the pid file.
+1089:M 28 Jun 2025 03:05:10.814 # Redis is now ready to exit, bye bye...
+1115:C 28 Jun 2025 03:05:57.614 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1115:C 28 Jun 2025 03:05:57.614 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1115, just started
+1115:C 28 Jun 2025 03:05:57.614 # Configuration loaded
+1115:M 28 Jun 2025 03:05:57.616 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1115:M 28 Jun 2025 03:05:57.616 * monotonic clock: POSIX clock_gettime
+1115:M 28 Jun 2025 03:05:57.658 * Running mode=standalone, port=13000.
+1115:M 28 Jun 2025 03:05:57.658 # Server initialized
+1115:M 28 Jun 2025 03:05:57.659 * Ready to accept connections
+1115:signal-handler (1751079968) Received SIGTERM scheduling shutdown...
+1115:M 28 Jun 2025 03:06:08.865 # User requested shutdown...
+1115:M 28 Jun 2025 03:06:08.865 * Removing the pid file.
+1115:M 28 Jun 2025 03:06:08.865 # Redis is now ready to exit, bye bye...
+1101:C 28 Jun 2025 03:06:57.470 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1101:C 28 Jun 2025 03:06:57.470 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1101, just started
+1101:C 28 Jun 2025 03:06:57.470 # Configuration loaded
+1101:M 28 Jun 2025 03:06:57.470 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1101:M 28 Jun 2025 03:06:57.470 * monotonic clock: POSIX clock_gettime
+1101:M 28 Jun 2025 03:06:57.471 * Running mode=standalone, port=13000.
+1101:M 28 Jun 2025 03:06:57.471 # Server initialized
+1101:M 28 Jun 2025 03:06:57.471 * Ready to accept connections
+1101:signal-handler (1751084783) Received SIGTERM scheduling shutdown...
+1101:M 28 Jun 2025 04:26:23.857 # User requested shutdown...
+1101:M 28 Jun 2025 04:26:23.857 * Removing the pid file.
+1101:M 28 Jun 2025 04:26:23.858 # Redis is now ready to exit, bye bye...
+1179:C 28 Jun 2025 04:27:09.112 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1179:C 28 Jun 2025 04:27:09.112 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1179, just started
+1179:C 28 Jun 2025 04:27:09.112 # Configuration loaded
+1179:M 28 Jun 2025 04:27:09.112 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1179:M 28 Jun 2025 04:27:09.112 * monotonic clock: POSIX clock_gettime
+1179:M 28 Jun 2025 04:27:09.113 * Running mode=standalone, port=13000.
+1179:M 28 Jun 2025 04:27:09.113 # Server initialized
+1179:M 28 Jun 2025 04:27:09.124 * Ready to accept connections
+1179:signal-handler (1751250125) Received SIGTERM scheduling shutdown...
+1179:M 30 Jun 2025 02:22:05.894 # User requested shutdown...
+1179:M 30 Jun 2025 02:22:05.894 * Removing the pid file.
+1179:M 30 Jun 2025 02:22:05.894 # Redis is now ready to exit, bye bye...
+1027:C 30 Jun 2025 02:22:51.884 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1027:C 30 Jun 2025 02:22:51.884 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1027, just started
+1027:C 30 Jun 2025 02:22:51.884 # Configuration loaded
+1027:M 30 Jun 2025 02:22:51.884 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1027:M 30 Jun 2025 02:22:51.884 * monotonic clock: POSIX clock_gettime
+1027:M 30 Jun 2025 02:22:51.885 * Running mode=standalone, port=13000.
+1027:M 30 Jun 2025 02:22:51.885 # Server initialized
+1027:M 30 Jun 2025 02:22:51.885 * Ready to accept connections
+1027:signal-handler (1751291464) Received SIGTERM scheduling shutdown...
+1027:M 30 Jun 2025 13:51:04.238 # User requested shutdown...
+1027:M 30 Jun 2025 13:51:04.238 * Removing the pid file.
+1027:M 30 Jun 2025 13:51:04.238 # Redis is now ready to exit, bye bye...
+1082:C 30 Jun 2025 13:51:49.670 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1082:C 30 Jun 2025 13:51:49.670 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1082, just started
+1082:C 30 Jun 2025 13:51:49.670 # Configuration loaded
+1082:M 30 Jun 2025 13:51:49.671 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1082:M 30 Jun 2025 13:51:49.671 * monotonic clock: POSIX clock_gettime
+1082:M 30 Jun 2025 13:51:49.696 * Running mode=standalone, port=13000.
+1082:M 30 Jun 2025 13:51:49.696 # Server initialized
+1082:M 30 Jun 2025 13:51:49.697 * Ready to accept connections
+1082:signal-handler (1751293683) Received SIGTERM scheduling shutdown...
+1082:M 30 Jun 2025 14:28:03.790 # User requested shutdown...
+1082:M 30 Jun 2025 14:28:03.790 * Removing the pid file.
+1082:M 30 Jun 2025 14:28:03.790 # Redis is now ready to exit, bye bye...
+1074:C 30 Jun 2025 14:28:48.268 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1074:C 30 Jun 2025 14:28:48.268 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1074, just started
+1074:C 30 Jun 2025 14:28:48.268 # Configuration loaded
+1074:M 30 Jun 2025 14:28:48.269 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1074:M 30 Jun 2025 14:28:48.269 * monotonic clock: POSIX clock_gettime
+1074:M 30 Jun 2025 14:28:48.271 * Running mode=standalone, port=13000.
+1074:M 30 Jun 2025 14:28:48.271 # Server initialized
+1074:M 30 Jun 2025 14:28:48.273 * Ready to accept connections
+1074:signal-handler (1751300809) Received SIGTERM scheduling shutdown...
+1074:M 30 Jun 2025 16:26:49.689 # User requested shutdown...
+1074:M 30 Jun 2025 16:26:49.689 * Removing the pid file.
+1074:M 30 Jun 2025 16:26:49.689 # Redis is now ready to exit, bye bye...
+1093:C 30 Jun 2025 16:27:34.151 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1093:C 30 Jun 2025 16:27:34.151 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1093, just started
+1093:C 30 Jun 2025 16:27:34.151 # Configuration loaded
+1093:M 30 Jun 2025 16:27:34.152 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1093:M 30 Jun 2025 16:27:34.152 * monotonic clock: POSIX clock_gettime
+1093:M 30 Jun 2025 16:27:34.154 * Running mode=standalone, port=13000.
+1093:M 30 Jun 2025 16:27:34.154 # Server initialized
+1093:M 30 Jun 2025 16:27:34.155 * Ready to accept connections
+1091:C 30 Jun 2025 18:13:14.267 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1091:C 30 Jun 2025 18:13:14.267 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1091, just started
+1091:C 30 Jun 2025 18:13:14.267 # Configuration loaded
+1091:M 30 Jun 2025 18:13:14.267 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1091:M 30 Jun 2025 18:13:14.267 * monotonic clock: POSIX clock_gettime
+1091:M 30 Jun 2025 18:13:14.268 * Running mode=standalone, port=13000.
+1091:M 30 Jun 2025 18:13:14.268 # Server initialized
+1091:M 30 Jun 2025 18:13:14.269 * Ready to accept connections
+1091:signal-handler (1751307846) Received SIGTERM scheduling shutdown...
+1091:M 30 Jun 2025 18:24:06.393 # User requested shutdown...
+1091:M 30 Jun 2025 18:24:06.393 * Removing the pid file.
+1091:M 30 Jun 2025 18:24:06.393 # Redis is now ready to exit, bye bye...
+1080:C 30 Jun 2025 18:24:50.180 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1080:C 30 Jun 2025 18:24:50.180 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1080, just started
+1080:C 30 Jun 2025 18:24:50.180 # Configuration loaded
+1080:M 30 Jun 2025 18:24:50.181 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1080:M 30 Jun 2025 18:24:50.181 * monotonic clock: POSIX clock_gettime
+1080:M 30 Jun 2025 18:24:50.187 * Running mode=standalone, port=13000.
+1080:M 30 Jun 2025 18:24:50.187 # Server initialized
+1080:M 30 Jun 2025 18:24:50.188 * Ready to accept connections
+1080:signal-handler (1751310768) Received SIGTERM scheduling shutdown...
+1080:M 30 Jun 2025 19:12:48.930 # User requested shutdown...
+1080:M 30 Jun 2025 19:12:48.930 * Removing the pid file.
+1080:M 30 Jun 2025 19:12:48.931 # Redis is now ready to exit, bye bye...
+1086:C 30 Jun 2025 19:13:34.052 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1086:C 30 Jun 2025 19:13:34.052 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1086, just started
+1086:C 30 Jun 2025 19:13:34.052 # Configuration loaded
+1086:M 30 Jun 2025 19:13:34.053 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1086:M 30 Jun 2025 19:13:34.053 * monotonic clock: POSIX clock_gettime
+1086:M 30 Jun 2025 19:13:34.058 * Running mode=standalone, port=13000.
+1086:M 30 Jun 2025 19:13:34.058 # Server initialized
+1086:M 30 Jun 2025 19:13:34.068 * Ready to accept connections
+1086:signal-handler (1751312750) Received SIGTERM scheduling shutdown...
+1086:M 30 Jun 2025 19:45:50.441 # User requested shutdown...
+1086:M 30 Jun 2025 19:45:50.441 * Removing the pid file.
+1086:M 30 Jun 2025 19:45:50.442 # Redis is now ready to exit, bye bye...
+1085:C 30 Jun 2025 19:46:35.266 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1085:C 30 Jun 2025 19:46:35.266 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1085, just started
+1085:C 30 Jun 2025 19:46:35.266 # Configuration loaded
+1085:M 30 Jun 2025 19:46:35.267 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1085:M 30 Jun 2025 19:46:35.267 * monotonic clock: POSIX clock_gettime
+1085:M 30 Jun 2025 19:46:35.267 * Running mode=standalone, port=13000.
+1085:M 30 Jun 2025 19:46:35.267 # Server initialized
+1085:M 30 Jun 2025 19:46:35.268 * Ready to accept connections
+1085:signal-handler (1751314287) Received SIGTERM scheduling shutdown...
+1085:M 30 Jun 2025 20:11:27.682 # User requested shutdown...
+1085:M 30 Jun 2025 20:11:27.682 * Removing the pid file.
+1085:M 30 Jun 2025 20:11:27.682 # Redis is now ready to exit, bye bye...
+1093:C 30 Jun 2025 20:12:11.395 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1093:C 30 Jun 2025 20:12:11.395 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1093, just started
+1093:C 30 Jun 2025 20:12:11.395 # Configuration loaded
+1093:M 30 Jun 2025 20:12:11.397 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1093:M 30 Jun 2025 20:12:11.397 * monotonic clock: POSIX clock_gettime
+1093:M 30 Jun 2025 20:12:11.404 * Running mode=standalone, port=13000.
+1093:M 30 Jun 2025 20:12:11.404 # Server initialized
+1093:M 30 Jun 2025 20:12:11.410 * Ready to accept connections
+1093:signal-handler (1751317970) Received SIGTERM scheduling shutdown...
+1093:M 30 Jun 2025 21:12:50.429 # User requested shutdown...
+1093:M 30 Jun 2025 21:12:50.429 * Removing the pid file.
+1093:M 30 Jun 2025 21:12:50.429 # Redis is now ready to exit, bye bye...
+1082:C 30 Jun 2025 21:13:34.844 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1082:C 30 Jun 2025 21:13:34.845 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1082, just started
+1082:C 30 Jun 2025 21:13:34.845 # Configuration loaded
+1082:M 30 Jun 2025 21:13:34.845 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1082:M 30 Jun 2025 21:13:34.845 * monotonic clock: POSIX clock_gettime
+1082:M 30 Jun 2025 21:13:34.847 * Running mode=standalone, port=13000.
+1082:M 30 Jun 2025 21:13:34.848 # Server initialized
+1082:M 30 Jun 2025 21:13:34.849 * Ready to accept connections
+1082:signal-handler (1751318633) Received SIGTERM scheduling shutdown...
+1082:M 30 Jun 2025 21:23:53.917 # User requested shutdown...
+1082:M 30 Jun 2025 21:23:53.917 * Removing the pid file.
+1082:M 30 Jun 2025 21:23:53.917 # Redis is now ready to exit, bye bye...
+1087:C 30 Jun 2025 21:24:38.453 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1087:C 30 Jun 2025 21:24:38.453 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1087, just started
+1087:C 30 Jun 2025 21:24:38.453 # Configuration loaded
+1087:M 30 Jun 2025 21:24:38.454 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1087:M 30 Jun 2025 21:24:38.454 * monotonic clock: POSIX clock_gettime
+1087:M 30 Jun 2025 21:24:38.458 * Running mode=standalone, port=13000.
+1087:M 30 Jun 2025 21:24:38.458 # Server initialized
+1087:M 30 Jun 2025 21:24:38.459 * Ready to accept connections
+1087:signal-handler (1751324250) Received SIGTERM scheduling shutdown...
+1087:M 30 Jun 2025 22:57:30.257 # User requested shutdown...
+1087:M 30 Jun 2025 22:57:30.257 * Removing the pid file.
+1087:M 30 Jun 2025 22:57:30.257 # Redis is now ready to exit, bye bye...
+1118:C 30 Jun 2025 22:58:16.659 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1118:C 30 Jun 2025 22:58:16.659 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1118, just started
+1118:C 30 Jun 2025 22:58:16.659 # Configuration loaded
+1118:M 30 Jun 2025 22:58:16.659 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1118:M 30 Jun 2025 22:58:16.659 * monotonic clock: POSIX clock_gettime
+1118:M 30 Jun 2025 22:58:16.682 * Running mode=standalone, port=13000.
+1118:M 30 Jun 2025 22:58:16.683 # Server initialized
+1118:M 30 Jun 2025 22:58:16.683 * Ready to accept connections
+1118:signal-handler (1751324545) Received SIGTERM scheduling shutdown...
+1118:M 30 Jun 2025 23:02:25.408 # User requested shutdown...
+1118:M 30 Jun 2025 23:02:25.408 * Removing the pid file.
+1118:M 30 Jun 2025 23:02:25.408 # Redis is now ready to exit, bye bye...
+1069:C 30 Jun 2025 23:03:09.897 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1069:C 30 Jun 2025 23:03:09.897 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1069, just started
+1069:C 30 Jun 2025 23:03:09.897 # Configuration loaded
+1069:M 30 Jun 2025 23:03:09.904 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1069:M 30 Jun 2025 23:03:09.904 * monotonic clock: POSIX clock_gettime
+1069:M 30 Jun 2025 23:03:09.916 * Running mode=standalone, port=13000.
+1069:M 30 Jun 2025 23:03:09.916 # Server initialized
+1069:M 30 Jun 2025 23:03:09.922 * Ready to accept connections
+1069:signal-handler (1751329027) Received SIGTERM scheduling shutdown...
+1069:M 01 Jul 2025 00:17:07.084 # User requested shutdown...
+1069:M 01 Jul 2025 00:17:07.084 * Removing the pid file.
+1069:M 01 Jul 2025 00:17:07.084 # Redis is now ready to exit, bye bye...
+1090:C 01 Jul 2025 00:17:51.667 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1090:C 01 Jul 2025 00:17:51.667 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1090, just started
+1090:C 01 Jul 2025 00:17:51.667 # Configuration loaded
+1090:M 01 Jul 2025 00:17:51.669 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1090:M 01 Jul 2025 00:17:51.669 * monotonic clock: POSIX clock_gettime
+1090:M 01 Jul 2025 00:17:51.689 * Running mode=standalone, port=13000.
+1090:M 01 Jul 2025 00:17:51.689 # Server initialized
+1090:M 01 Jul 2025 00:17:51.700 * Ready to accept connections
+1090:signal-handler (1751329424) Received SIGTERM scheduling shutdown...
+1090:M 01 Jul 2025 00:23:44.273 # User requested shutdown...
+1090:M 01 Jul 2025 00:23:44.273 * Removing the pid file.
+1090:M 01 Jul 2025 00:23:44.273 # Redis is now ready to exit, bye bye...
+1061:C 01 Jul 2025 00:24:28.858 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1061:C 01 Jul 2025 00:24:28.858 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1061, just started
+1061:C 01 Jul 2025 00:24:28.858 # Configuration loaded
+1061:M 01 Jul 2025 00:24:28.859 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1061:M 01 Jul 2025 00:24:28.859 * monotonic clock: POSIX clock_gettime
+1061:M 01 Jul 2025 00:24:28.867 * Running mode=standalone, port=13000.
+1061:M 01 Jul 2025 00:24:28.867 # Server initialized
+1061:M 01 Jul 2025 00:24:28.870 * Ready to accept connections
+1061:signal-handler (1751329632) Received SIGTERM scheduling shutdown...
+1061:M 01 Jul 2025 00:27:12.304 # User requested shutdown...
+1061:M 01 Jul 2025 00:27:12.304 * Removing the pid file.
+1061:M 01 Jul 2025 00:27:12.304 # Redis is now ready to exit, bye bye...
+1088:C 01 Jul 2025 00:27:55.929 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1088:C 01 Jul 2025 00:27:55.929 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1088, just started
+1088:C 01 Jul 2025 00:27:55.929 # Configuration loaded
+1088:M 01 Jul 2025 00:27:55.929 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1088:M 01 Jul 2025 00:27:55.929 * monotonic clock: POSIX clock_gettime
+1088:M 01 Jul 2025 00:27:55.932 * Running mode=standalone, port=13000.
+1088:M 01 Jul 2025 00:27:55.932 # Server initialized
+1088:M 01 Jul 2025 00:27:55.933 * Ready to accept connections
+1088:signal-handler (1751332927) Received SIGTERM scheduling shutdown...
+1088:M 01 Jul 2025 01:22:07.812 # User requested shutdown...
+1088:M 01 Jul 2025 01:22:07.812 * Removing the pid file.
+1088:M 01 Jul 2025 01:22:07.812 # Redis is now ready to exit, bye bye...
+1115:C 01 Jul 2025 01:22:51.062 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1115:C 01 Jul 2025 01:22:51.062 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1115, just started
+1115:C 01 Jul 2025 01:22:51.062 # Configuration loaded
+1115:M 01 Jul 2025 01:22:51.063 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1115:M 01 Jul 2025 01:22:51.063 * monotonic clock: POSIX clock_gettime
+1115:M 01 Jul 2025 01:22:51.072 * Running mode=standalone, port=13000.
+1115:M 01 Jul 2025 01:22:51.072 # Server initialized
+1115:M 01 Jul 2025 01:22:51.072 * Ready to accept connections
+1115:signal-handler (1751341088) Received SIGTERM scheduling shutdown...
+1115:M 01 Jul 2025 03:38:08.423 # User requested shutdown...
+1115:M 01 Jul 2025 03:38:08.423 * Removing the pid file.
+1115:M 01 Jul 2025 03:38:08.424 # Redis is now ready to exit, bye bye...
+1082:C 01 Jul 2025 03:38:52.988 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1082:C 01 Jul 2025 03:38:52.988 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1082, just started
+1082:C 01 Jul 2025 03:38:52.988 # Configuration loaded
+1082:M 01 Jul 2025 03:38:52.990 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1082:M 01 Jul 2025 03:38:52.990 * monotonic clock: POSIX clock_gettime
+1082:M 01 Jul 2025 03:38:53.007 * Running mode=standalone, port=13000.
+1082:M 01 Jul 2025 03:38:53.007 # Server initialized
+1082:M 01 Jul 2025 03:38:53.010 * Ready to accept connections
+1082:signal-handler (1751341703) Received SIGTERM scheduling shutdown...
+1082:M 01 Jul 2025 03:48:23.057 # User requested shutdown...
+1082:M 01 Jul 2025 03:48:23.057 * Removing the pid file.
+1082:M 01 Jul 2025 03:48:23.057 # Redis is now ready to exit, bye bye...
+1089:C 01 Jul 2025 03:49:08.233 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1089:C 01 Jul 2025 03:49:08.233 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1089, just started
+1089:C 01 Jul 2025 03:49:08.233 # Configuration loaded
+1089:M 01 Jul 2025 03:49:08.233 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1089:M 01 Jul 2025 03:49:08.233 * monotonic clock: POSIX clock_gettime
+1089:M 01 Jul 2025 03:49:08.237 * Running mode=standalone, port=13000.
+1089:M 01 Jul 2025 03:49:08.237 # Server initialized
+1089:M 01 Jul 2025 03:49:08.237 * Ready to accept connections
+1089:signal-handler (1751343010) Received SIGTERM scheduling shutdown...
+1089:M 01 Jul 2025 04:10:11.036 # User requested shutdown...
+1089:M 01 Jul 2025 04:10:11.036 * Removing the pid file.
+1089:M 01 Jul 2025 04:10:11.036 # Redis is now ready to exit, bye bye...
+1054:C 01 Jul 2025 04:10:55.953 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1054:C 01 Jul 2025 04:10:55.953 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1054, just started
+1054:C 01 Jul 2025 04:10:55.953 # Configuration loaded
+1054:M 01 Jul 2025 04:10:55.954 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1054:M 01 Jul 2025 04:10:55.954 * monotonic clock: POSIX clock_gettime
+1054:M 01 Jul 2025 04:10:55.964 * Running mode=standalone, port=13000.
+1054:M 01 Jul 2025 04:10:55.964 # Server initialized
+1054:M 01 Jul 2025 04:10:55.964 * Ready to accept connections
+1054:signal-handler (1751343811) Received SIGTERM scheduling shutdown...
+1054:M 01 Jul 2025 04:23:31.195 # User requested shutdown...
+1054:M 01 Jul 2025 04:23:31.195 * Removing the pid file.
+1054:M 01 Jul 2025 04:23:31.195 # Redis is now ready to exit, bye bye...
+1074:C 01 Jul 2025 04:24:15.695 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1074:C 01 Jul 2025 04:24:15.695 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1074, just started
+1074:C 01 Jul 2025 04:24:15.695 # Configuration loaded
+1074:M 01 Jul 2025 04:24:15.696 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1074:M 01 Jul 2025 04:24:15.696 * monotonic clock: POSIX clock_gettime
+1074:M 01 Jul 2025 04:24:15.700 * Running mode=standalone, port=13000.
+1074:M 01 Jul 2025 04:24:15.700 # Server initialized
+1074:M 01 Jul 2025 04:24:15.715 * Ready to accept connections
+1074:signal-handler (1751344219) Received SIGTERM scheduling shutdown...
+1074:M 01 Jul 2025 04:30:19.786 # User requested shutdown...
+1074:M 01 Jul 2025 04:30:19.786 * Removing the pid file.
+1074:M 01 Jul 2025 04:30:19.786 # Redis is now ready to exit, bye bye...
+1115:C 01 Jul 2025 04:31:05.550 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1115:C 01 Jul 2025 04:31:05.550 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1115, just started
+1115:C 01 Jul 2025 04:31:05.550 # Configuration loaded
+1115:M 01 Jul 2025 04:31:05.551 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1115:M 01 Jul 2025 04:31:05.551 * monotonic clock: POSIX clock_gettime
+1115:M 01 Jul 2025 04:31:05.558 * Running mode=standalone, port=13000.
+1115:M 01 Jul 2025 04:31:05.558 # Server initialized
+1115:M 01 Jul 2025 04:31:05.559 * Ready to accept connections
+1115:signal-handler (1751344742) Received SIGTERM scheduling shutdown...
+1115:M 01 Jul 2025 04:39:02.289 # User requested shutdown...
+1115:M 01 Jul 2025 04:39:02.289 * Removing the pid file.
+1115:M 01 Jul 2025 04:39:02.289 # Redis is now ready to exit, bye bye...
+1084:C 01 Jul 2025 04:39:46.194 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1084:C 01 Jul 2025 04:39:46.194 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1084, just started
+1084:C 01 Jul 2025 04:39:46.194 # Configuration loaded
+1084:M 01 Jul 2025 04:39:46.195 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1084:M 01 Jul 2025 04:39:46.195 * monotonic clock: POSIX clock_gettime
+1084:M 01 Jul 2025 04:39:46.200 * Running mode=standalone, port=13000.
+1084:M 01 Jul 2025 04:39:46.200 # Server initialized
+1084:M 01 Jul 2025 04:39:46.207 * Ready to accept connections
+1084:signal-handler (1751345407) Received SIGTERM scheduling shutdown...
+1084:M 01 Jul 2025 04:50:07.973 # User requested shutdown...
+1084:M 01 Jul 2025 04:50:07.973 * Removing the pid file.
+1084:M 01 Jul 2025 04:50:07.973 # Redis is now ready to exit, bye bye...
+1061:C 01 Jul 2025 04:50:52.825 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1061:C 01 Jul 2025 04:50:52.825 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1061, just started
+1061:C 01 Jul 2025 04:50:52.825 # Configuration loaded
+1061:M 01 Jul 2025 04:50:52.825 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1061:M 01 Jul 2025 04:50:52.825 * monotonic clock: POSIX clock_gettime
+1061:M 01 Jul 2025 04:50:52.835 * Running mode=standalone, port=13000.
+1061:M 01 Jul 2025 04:50:52.835 # Server initialized
+1061:M 01 Jul 2025 04:50:52.837 * Ready to accept connections
+1061:signal-handler (1751345987) Received SIGTERM scheduling shutdown...
+1061:M 01 Jul 2025 04:59:47.137 # User requested shutdown...
+1061:M 01 Jul 2025 04:59:47.137 * Removing the pid file.
+1061:M 01 Jul 2025 04:59:47.137 # Redis is now ready to exit, bye bye...
+1078:C 01 Jul 2025 05:00:32.727 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1078:C 01 Jul 2025 05:00:32.727 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1078, just started
+1078:C 01 Jul 2025 05:00:32.727 # Configuration loaded
+1078:M 01 Jul 2025 05:00:32.728 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1078:M 01 Jul 2025 05:00:32.728 * monotonic clock: POSIX clock_gettime
+1078:M 01 Jul 2025 05:00:32.730 * Running mode=standalone, port=13000.
+1078:M 01 Jul 2025 05:00:32.730 # Server initialized
+1078:M 01 Jul 2025 05:00:32.750 * Ready to accept connections
+1078:signal-handler (1751346645) Received SIGTERM scheduling shutdown...
+1078:M 01 Jul 2025 05:10:45.401 # User requested shutdown...
+1078:M 01 Jul 2025 05:10:45.401 * Removing the pid file.
+1078:M 01 Jul 2025 05:10:45.401 # Redis is now ready to exit, bye bye...
+1120:C 01 Jul 2025 05:11:30.353 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1120:C 01 Jul 2025 05:11:30.353 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1120, just started
+1120:C 01 Jul 2025 05:11:30.353 # Configuration loaded
+1120:M 01 Jul 2025 05:11:30.354 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1120:M 01 Jul 2025 05:11:30.354 * monotonic clock: POSIX clock_gettime
+1120:M 01 Jul 2025 05:11:30.356 * Running mode=standalone, port=13000.
+1120:M 01 Jul 2025 05:11:30.356 # Server initialized
+1120:M 01 Jul 2025 05:11:30.356 * Ready to accept connections
+1120:signal-handler (1751347093) Received SIGTERM scheduling shutdown...
+1120:M 01 Jul 2025 05:18:13.963 # User requested shutdown...
+1120:M 01 Jul 2025 05:18:13.963 * Removing the pid file.
+1120:M 01 Jul 2025 05:18:13.964 # Redis is now ready to exit, bye bye...
+1075:C 01 Jul 2025 05:18:57.289 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1075:C 01 Jul 2025 05:18:57.289 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1075, just started
+1075:C 01 Jul 2025 05:18:57.289 # Configuration loaded
+1075:M 01 Jul 2025 05:18:57.292 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1075:M 01 Jul 2025 05:18:57.292 * monotonic clock: POSIX clock_gettime
+1075:M 01 Jul 2025 05:18:57.294 * Running mode=standalone, port=13000.
+1075:M 01 Jul 2025 05:18:57.294 # Server initialized
+1075:M 01 Jul 2025 05:18:57.297 * Ready to accept connections
+1075:signal-handler (1751371807) Received SIGTERM scheduling shutdown...
+1075:M 01 Jul 2025 12:10:07.536 # User requested shutdown...
+1075:M 01 Jul 2025 12:10:07.536 * Removing the pid file.
+1075:M 01 Jul 2025 12:10:07.536 # Redis is now ready to exit, bye bye...
+1050:C 01 Jul 2025 12:10:51.089 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1050:C 01 Jul 2025 12:10:51.089 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1050, just started
+1050:C 01 Jul 2025 12:10:51.089 # Configuration loaded
+1050:M 01 Jul 2025 12:10:51.094 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1050:M 01 Jul 2025 12:10:51.094 * monotonic clock: POSIX clock_gettime
+1050:M 01 Jul 2025 12:10:51.106 * Running mode=standalone, port=13000.
+1050:M 01 Jul 2025 12:10:51.106 # Server initialized
+1050:M 01 Jul 2025 12:10:51.109 * Ready to accept connections
+1050:signal-handler (1751375082) Received SIGTERM scheduling shutdown...
+1050:M 01 Jul 2025 13:04:42.082 # User requested shutdown...
+1050:M 01 Jul 2025 13:04:42.082 * Removing the pid file.
+1050:M 01 Jul 2025 13:04:42.082 # Redis is now ready to exit, bye bye...
+1074:C 01 Jul 2025 13:05:27.195 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1074:C 01 Jul 2025 13:05:27.195 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1074, just started
+1074:C 01 Jul 2025 13:05:27.195 # Configuration loaded
+1074:M 01 Jul 2025 13:05:27.195 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1074:M 01 Jul 2025 13:05:27.195 * monotonic clock: POSIX clock_gettime
+1074:M 01 Jul 2025 13:05:27.206 * Running mode=standalone, port=13000.
+1074:M 01 Jul 2025 13:05:27.206 # Server initialized
+1074:M 01 Jul 2025 13:05:27.207 * Ready to accept connections
+1144:C 01 Jul 2025 13:53:53.647 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1144:C 01 Jul 2025 13:53:53.647 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1144, just started
+1144:C 01 Jul 2025 13:53:53.647 # Configuration loaded
+1144:M 01 Jul 2025 13:53:53.647 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1144:M 01 Jul 2025 13:53:53.647 * monotonic clock: POSIX clock_gettime
+1144:M 01 Jul 2025 13:53:53.658 * Running mode=standalone, port=13000.
+1144:M 01 Jul 2025 13:53:53.658 # Server initialized
+1144:M 01 Jul 2025 13:53:53.668 * Ready to accept connections
+1144:signal-handler (1751382639) Received SIGTERM scheduling shutdown...
+1144:M 01 Jul 2025 15:10:39.690 # User requested shutdown...
+1144:M 01 Jul 2025 15:10:39.690 * Removing the pid file.
+1144:M 01 Jul 2025 15:10:39.691 # Redis is now ready to exit, bye bye...
+1115:C 01 Jul 2025 15:11:22.732 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1115:C 01 Jul 2025 15:11:22.732 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1115, just started
+1115:C 01 Jul 2025 15:11:22.732 # Configuration loaded
+1115:M 01 Jul 2025 15:11:22.732 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1115:M 01 Jul 2025 15:11:22.732 * monotonic clock: POSIX clock_gettime
+1115:M 01 Jul 2025 15:11:22.734 * Running mode=standalone, port=13000.
+1115:M 01 Jul 2025 15:11:22.734 # Server initialized
+1115:M 01 Jul 2025 15:11:22.735 * Ready to accept connections
+1115:signal-handler (1751383772) Received SIGTERM scheduling shutdown...
+1115:M 01 Jul 2025 15:29:32.498 # User requested shutdown...
+1115:M 01 Jul 2025 15:29:32.498 * Removing the pid file.
+1115:M 01 Jul 2025 15:29:32.498 # Redis is now ready to exit, bye bye...
+1104:C 01 Jul 2025 15:30:17.487 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1104:C 01 Jul 2025 15:30:17.487 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1104, just started
+1104:C 01 Jul 2025 15:30:17.487 # Configuration loaded
+1104:M 01 Jul 2025 15:30:17.488 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1104:M 01 Jul 2025 15:30:17.488 * monotonic clock: POSIX clock_gettime
+1104:M 01 Jul 2025 15:30:17.504 * Running mode=standalone, port=13000.
+1104:M 01 Jul 2025 15:30:17.504 # Server initialized
+1104:M 01 Jul 2025 15:30:17.505 * Ready to accept connections
+1104:signal-handler (1751384434) Received SIGTERM scheduling shutdown...
+1104:M 01 Jul 2025 15:40:34.246 # User requested shutdown...
+1104:M 01 Jul 2025 15:40:34.246 * Removing the pid file.
+1104:M 01 Jul 2025 15:40:34.246 # Redis is now ready to exit, bye bye...
+1224:C 01 Jul 2025 15:41:19.641 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1224:C 01 Jul 2025 15:41:19.641 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1224, just started
+1224:C 01 Jul 2025 15:41:19.641 # Configuration loaded
+1224:M 01 Jul 2025 15:41:19.641 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1224:M 01 Jul 2025 15:41:19.641 * monotonic clock: POSIX clock_gettime
+1224:M 01 Jul 2025 15:41:19.647 * Running mode=standalone, port=13000.
+1224:M 01 Jul 2025 15:41:19.647 # Server initialized
+1224:M 01 Jul 2025 15:41:19.655 * Ready to accept connections
+1224:signal-handler (1751420408) Received SIGTERM scheduling shutdown...
+1224:M 02 Jul 2025 01:40:08.175 # User requested shutdown...
+1224:M 02 Jul 2025 01:40:08.175 * Removing the pid file.
+1224:M 02 Jul 2025 01:40:08.176 # Redis is now ready to exit, bye bye...
+1095:C 02 Jul 2025 01:40:53.842 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1095:C 02 Jul 2025 01:40:53.842 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1095, just started
+1095:C 02 Jul 2025 01:40:53.842 # Configuration loaded
+1095:M 02 Jul 2025 01:40:53.843 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1095:M 02 Jul 2025 01:40:53.843 * monotonic clock: POSIX clock_gettime
+1095:M 02 Jul 2025 01:40:53.844 * Running mode=standalone, port=13000.
+1095:M 02 Jul 2025 01:40:53.844 # Server initialized
+1095:M 02 Jul 2025 01:40:53.845 * Ready to accept connections
+1095:signal-handler (1751422030) Received SIGTERM scheduling shutdown...
+1095:M 02 Jul 2025 02:07:10.506 # User requested shutdown...
+1095:M 02 Jul 2025 02:07:10.506 * Removing the pid file.
+1095:M 02 Jul 2025 02:07:10.506 # Redis is now ready to exit, bye bye...
+1113:C 02 Jul 2025 02:07:57.109 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1113:C 02 Jul 2025 02:07:57.109 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1113, just started
+1113:C 02 Jul 2025 02:07:57.109 # Configuration loaded
+1113:M 02 Jul 2025 02:07:57.110 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1113:M 02 Jul 2025 02:07:57.110 * monotonic clock: POSIX clock_gettime
+1113:M 02 Jul 2025 02:07:57.124 * Running mode=standalone, port=13000.
+1113:M 02 Jul 2025 02:07:57.124 # Server initialized
+1113:M 02 Jul 2025 02:07:57.131 * Ready to accept connections
+1113:signal-handler (1751465354) Received SIGTERM scheduling shutdown...
+1113:M 02 Jul 2025 14:09:14.218 # User requested shutdown...
+1113:M 02 Jul 2025 14:09:14.218 * Removing the pid file.
+1113:M 02 Jul 2025 14:09:14.218 # Redis is now ready to exit, bye bye...
+1077:C 02 Jul 2025 14:09:58.386 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1077:C 02 Jul 2025 14:09:58.386 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1077, just started
+1077:C 02 Jul 2025 14:09:58.386 # Configuration loaded
+1077:M 02 Jul 2025 14:09:58.386 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1077:M 02 Jul 2025 14:09:58.386 * monotonic clock: POSIX clock_gettime
+1077:M 02 Jul 2025 14:09:58.391 * Running mode=standalone, port=13000.
+1077:M 02 Jul 2025 14:09:58.391 # Server initialized
+1077:M 02 Jul 2025 14:09:58.392 * Ready to accept connections
+1077:signal-handler (1751506868) Received SIGTERM scheduling shutdown...
+1077:M 03 Jul 2025 01:41:08.982 # User requested shutdown...
+1077:M 03 Jul 2025 01:41:08.982 * Removing the pid file.
+1077:M 03 Jul 2025 01:41:08.982 # Redis is now ready to exit, bye bye...
+1087:C 03 Jul 2025 01:41:54.940 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1087:C 03 Jul 2025 01:41:54.940 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1087, just started
+1087:C 03 Jul 2025 01:41:54.940 # Configuration loaded
+1087:M 03 Jul 2025 01:41:54.943 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1087:M 03 Jul 2025 01:41:54.943 * monotonic clock: POSIX clock_gettime
+1087:M 03 Jul 2025 01:41:54.945 * Running mode=standalone, port=13000.
+1087:M 03 Jul 2025 01:41:54.945 # Server initialized
+1087:M 03 Jul 2025 01:41:54.946 * Ready to accept connections
+1087:signal-handler (1751507914) Received SIGTERM scheduling shutdown...
+1087:M 03 Jul 2025 01:58:34.267 # User requested shutdown...
+1087:M 03 Jul 2025 01:58:34.267 * Removing the pid file.
+1087:M 03 Jul 2025 01:58:34.268 # Redis is now ready to exit, bye bye...
+1079:C 03 Jul 2025 01:59:19.555 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1079:C 03 Jul 2025 01:59:19.555 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1079, just started
+1079:C 03 Jul 2025 01:59:19.555 # Configuration loaded
+1079:M 03 Jul 2025 01:59:19.558 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1079:M 03 Jul 2025 01:59:19.558 * monotonic clock: POSIX clock_gettime
+1079:M 03 Jul 2025 01:59:19.571 * Running mode=standalone, port=13000.
+1079:M 03 Jul 2025 01:59:19.571 # Server initialized
+1079:M 03 Jul 2025 01:59:19.572 * Ready to accept connections
+1079:signal-handler (1751508485) Received SIGTERM scheduling shutdown...
+1079:M 03 Jul 2025 02:08:05.403 # User requested shutdown...
+1079:M 03 Jul 2025 02:08:05.403 * Removing the pid file.
+1079:M 03 Jul 2025 02:08:05.403 # Redis is now ready to exit, bye bye...
+1099:C 03 Jul 2025 02:08:50.433 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1099:C 03 Jul 2025 02:08:50.433 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1099, just started
+1099:C 03 Jul 2025 02:08:50.433 # Configuration loaded
+1099:M 03 Jul 2025 02:08:50.434 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1099:M 03 Jul 2025 02:08:50.434 * monotonic clock: POSIX clock_gettime
+1099:M 03 Jul 2025 02:08:50.440 * Running mode=standalone, port=13000.
+1099:M 03 Jul 2025 02:08:50.440 # Server initialized
+1099:M 03 Jul 2025 02:08:50.440 * Ready to accept connections
+1099:signal-handler (1751509926) Received SIGTERM scheduling shutdown...
+1099:M 03 Jul 2025 02:32:06.854 # User requested shutdown...
+1099:M 03 Jul 2025 02:32:06.854 * Removing the pid file.
+1099:M 03 Jul 2025 02:32:06.855 # Redis is now ready to exit, bye bye...
+1074:C 03 Jul 2025 02:32:53.223 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1074:C 03 Jul 2025 02:32:53.224 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1074, just started
+1074:C 03 Jul 2025 02:32:53.224 # Configuration loaded
+1074:M 03 Jul 2025 02:32:53.224 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1074:M 03 Jul 2025 02:32:53.224 * monotonic clock: POSIX clock_gettime
+1074:M 03 Jul 2025 02:32:53.233 * Running mode=standalone, port=13000.
+1074:M 03 Jul 2025 02:32:53.233 # Server initialized
+1074:M 03 Jul 2025 02:32:53.233 * Ready to accept connections
+1074:signal-handler (1751511097) Received SIGTERM scheduling shutdown...
+1074:M 03 Jul 2025 02:51:37.298 # User requested shutdown...
+1074:M 03 Jul 2025 02:51:37.298 * Removing the pid file.
+1074:M 03 Jul 2025 02:51:37.299 # Redis is now ready to exit, bye bye...
+1087:C 03 Jul 2025 02:52:22.372 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1087:C 03 Jul 2025 02:52:22.372 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1087, just started
+1087:C 03 Jul 2025 02:52:22.372 # Configuration loaded
+1087:M 03 Jul 2025 02:52:22.373 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1087:M 03 Jul 2025 02:52:22.373 * monotonic clock: POSIX clock_gettime
+1087:M 03 Jul 2025 02:52:22.380 * Running mode=standalone, port=13000.
+1087:M 03 Jul 2025 02:52:22.380 # Server initialized
+1087:M 03 Jul 2025 02:52:22.380 * Ready to accept connections
+1087:signal-handler (1751511701) Received SIGTERM scheduling shutdown...
+1087:M 03 Jul 2025 03:01:41.360 # User requested shutdown...
+1087:M 03 Jul 2025 03:01:41.360 * Removing the pid file.
+1087:M 03 Jul 2025 03:01:41.360 # Redis is now ready to exit, bye bye...
+1094:C 03 Jul 2025 03:02:26.880 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1094:C 03 Jul 2025 03:02:26.880 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1094, just started
+1094:C 03 Jul 2025 03:02:26.880 # Configuration loaded
+1094:M 03 Jul 2025 03:02:26.881 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1094:M 03 Jul 2025 03:02:26.881 * monotonic clock: POSIX clock_gettime
+1094:M 03 Jul 2025 03:02:26.888 * Running mode=standalone, port=13000.
+1094:M 03 Jul 2025 03:02:26.888 # Server initialized
+1094:M 03 Jul 2025 03:02:26.893 * Ready to accept connections
+1094:signal-handler (1751512506) Received SIGTERM scheduling shutdown...
+1094:M 03 Jul 2025 03:15:06.276 # User requested shutdown...
+1094:M 03 Jul 2025 03:15:06.276 * Removing the pid file.
+1094:M 03 Jul 2025 03:15:06.276 # Redis is now ready to exit, bye bye...
+1114:C 03 Jul 2025 03:15:51.855 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1114:C 03 Jul 2025 03:15:51.855 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1114, just started
+1114:C 03 Jul 2025 03:15:51.855 # Configuration loaded
+1114:M 03 Jul 2025 03:15:51.855 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1114:M 03 Jul 2025 03:15:51.855 * monotonic clock: POSIX clock_gettime
+1114:M 03 Jul 2025 03:15:51.861 * Running mode=standalone, port=13000.
+1114:M 03 Jul 2025 03:15:51.861 # Server initialized
+1114:M 03 Jul 2025 03:15:51.861 * Ready to accept connections
+1114:signal-handler (1751513605) Received SIGTERM scheduling shutdown...
+1114:M 03 Jul 2025 03:33:25.912 # User requested shutdown...
+1114:M 03 Jul 2025 03:33:25.912 * Removing the pid file.
+1114:M 03 Jul 2025 03:33:25.912 # Redis is now ready to exit, bye bye...
+1090:C 03 Jul 2025 03:34:09.888 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1090:C 03 Jul 2025 03:34:09.888 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1090, just started
+1090:C 03 Jul 2025 03:34:09.888 # Configuration loaded
+1090:M 03 Jul 2025 03:34:09.890 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1090:M 03 Jul 2025 03:34:09.890 * monotonic clock: POSIX clock_gettime
+1090:M 03 Jul 2025 03:34:09.894 * Running mode=standalone, port=13000.
+1090:M 03 Jul 2025 03:34:09.894 # Server initialized
+1090:M 03 Jul 2025 03:34:09.895 * Ready to accept connections
+1090:signal-handler (1751516741) Received SIGTERM scheduling shutdown...
+1090:M 03 Jul 2025 04:25:41.975 # User requested shutdown...
+1090:M 03 Jul 2025 04:25:41.975 * Removing the pid file.
+1090:M 03 Jul 2025 04:25:41.975 # Redis is now ready to exit, bye bye...
+1077:C 03 Jul 2025 04:26:28.489 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1077:C 03 Jul 2025 04:26:28.489 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1077, just started
+1077:C 03 Jul 2025 04:26:28.489 # Configuration loaded
+1077:M 03 Jul 2025 04:26:28.492 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1077:M 03 Jul 2025 04:26:28.492 * monotonic clock: POSIX clock_gettime
+1077:M 03 Jul 2025 04:26:28.499 * Running mode=standalone, port=13000.
+1077:M 03 Jul 2025 04:26:28.501 # Server initialized
+1077:M 03 Jul 2025 04:26:28.509 * Ready to accept connections
+1077:signal-handler (1751520399) Received SIGTERM scheduling shutdown...
+1077:M 03 Jul 2025 05:26:39.553 # User requested shutdown...
+1077:M 03 Jul 2025 05:26:39.553 * Removing the pid file.
+1077:M 03 Jul 2025 05:26:39.553 # Redis is now ready to exit, bye bye...
+1076:C 03 Jul 2025 05:27:24.193 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1076:C 03 Jul 2025 05:27:24.193 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1076, just started
+1076:C 03 Jul 2025 05:27:24.193 # Configuration loaded
+1076:M 03 Jul 2025 05:27:24.194 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1076:M 03 Jul 2025 05:27:24.194 * monotonic clock: POSIX clock_gettime
+1076:M 03 Jul 2025 05:27:24.232 * Running mode=standalone, port=13000.
+1076:M 03 Jul 2025 05:27:24.232 # Server initialized
+1076:M 03 Jul 2025 05:27:24.233 * Ready to accept connections
+1076:signal-handler (1751520889) Received SIGTERM scheduling shutdown...
+1076:M 03 Jul 2025 05:34:49.954 # User requested shutdown...
+1076:M 03 Jul 2025 05:34:49.954 * Removing the pid file.
+1076:M 03 Jul 2025 05:34:49.955 # Redis is now ready to exit, bye bye...
+1091:C 03 Jul 2025 05:35:34.507 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1091:C 03 Jul 2025 05:35:34.507 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1091, just started
+1091:C 03 Jul 2025 05:35:34.507 # Configuration loaded
+1091:M 03 Jul 2025 05:35:34.510 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1091:M 03 Jul 2025 05:35:34.510 * monotonic clock: POSIX clock_gettime
+1091:M 03 Jul 2025 05:35:34.530 * Running mode=standalone, port=13000.
+1091:M 03 Jul 2025 05:35:34.530 # Server initialized
+1091:M 03 Jul 2025 05:35:34.531 * Ready to accept connections
+1091:signal-handler (1751522007) Received SIGTERM scheduling shutdown...
+1091:M 03 Jul 2025 05:53:27.821 # User requested shutdown...
+1091:M 03 Jul 2025 05:53:27.821 * Removing the pid file.
+1091:M 03 Jul 2025 05:53:27.822 # Redis is now ready to exit, bye bye...
+1085:C 03 Jul 2025 05:54:12.695 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1085:C 03 Jul 2025 05:54:12.695 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1085, just started
+1085:C 03 Jul 2025 05:54:12.695 # Configuration loaded
+1085:M 03 Jul 2025 05:54:12.699 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1085:M 03 Jul 2025 05:54:12.699 * monotonic clock: POSIX clock_gettime
+1085:M 03 Jul 2025 05:54:12.703 * Running mode=standalone, port=13000.
+1085:M 03 Jul 2025 05:54:12.703 # Server initialized
+1085:M 03 Jul 2025 05:54:12.707 * Ready to accept connections
+1085:signal-handler (1751542545) Received SIGTERM scheduling shutdown...
+1085:M 03 Jul 2025 11:35:45.545 # User requested shutdown...
+1085:M 03 Jul 2025 11:35:45.545 * Removing the pid file.
+1085:M 03 Jul 2025 11:35:45.545 # Redis is now ready to exit, bye bye...
+1091:C 03 Jul 2025 11:36:32.354 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1091:C 03 Jul 2025 11:36:32.354 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1091, just started
+1091:C 03 Jul 2025 11:36:32.354 # Configuration loaded
+1091:M 03 Jul 2025 11:36:32.358 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1091:M 03 Jul 2025 11:36:32.358 * monotonic clock: POSIX clock_gettime
+1091:M 03 Jul 2025 11:36:32.362 * Running mode=standalone, port=13000.
+1091:M 03 Jul 2025 11:36:32.362 # Server initialized
+1091:M 03 Jul 2025 11:36:32.362 * Ready to accept connections
+1091:signal-handler (1751544301) Received SIGTERM scheduling shutdown...
+1091:M 03 Jul 2025 12:05:01.706 # User requested shutdown...
+1091:M 03 Jul 2025 12:05:01.706 * Removing the pid file.
+1091:M 03 Jul 2025 12:05:01.706 # Redis is now ready to exit, bye bye...
+1091:C 03 Jul 2025 12:05:46.157 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1091:C 03 Jul 2025 12:05:46.157 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1091, just started
+1091:C 03 Jul 2025 12:05:46.157 # Configuration loaded
+1091:M 03 Jul 2025 12:05:46.162 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1091:M 03 Jul 2025 12:05:46.162 * monotonic clock: POSIX clock_gettime
+1091:M 03 Jul 2025 12:05:46.169 * Running mode=standalone, port=13000.
+1091:M 03 Jul 2025 12:05:46.169 # Server initialized
+1091:M 03 Jul 2025 12:05:46.178 * Ready to accept connections
+1091:signal-handler (1751547405) Received SIGTERM scheduling shutdown...
+1091:M 03 Jul 2025 12:56:45.266 # User requested shutdown...
+1091:M 03 Jul 2025 12:56:45.266 * Removing the pid file.
+1091:M 03 Jul 2025 12:56:45.267 # Redis is now ready to exit, bye bye...
+1085:C 03 Jul 2025 12:57:30.504 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1085:C 03 Jul 2025 12:57:30.504 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1085, just started
+1085:C 03 Jul 2025 12:57:30.504 # Configuration loaded
+1085:M 03 Jul 2025 12:57:30.505 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1085:M 03 Jul 2025 12:57:30.505 * monotonic clock: POSIX clock_gettime
+1085:M 03 Jul 2025 12:57:30.518 * Running mode=standalone, port=13000.
+1085:M 03 Jul 2025 12:57:30.518 # Server initialized
+1085:M 03 Jul 2025 12:57:30.518 * Ready to accept connections
+1085:signal-handler (1751595224) Received SIGTERM scheduling shutdown...
+1085:M 04 Jul 2025 02:13:44.727 # User requested shutdown...
+1085:M 04 Jul 2025 02:13:44.727 * Removing the pid file.
+1085:M 04 Jul 2025 02:13:44.727 # Redis is now ready to exit, bye bye...
+1077:C 04 Jul 2025 02:14:30.295 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1077:C 04 Jul 2025 02:14:30.295 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1077, just started
+1077:C 04 Jul 2025 02:14:30.295 # Configuration loaded
+1077:M 04 Jul 2025 02:14:30.296 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1077:M 04 Jul 2025 02:14:30.296 * monotonic clock: POSIX clock_gettime
+1077:M 04 Jul 2025 02:14:30.303 * Running mode=standalone, port=13000.
+1077:M 04 Jul 2025 02:14:30.303 # Server initialized
+1077:M 04 Jul 2025 02:14:30.304 * Ready to accept connections
+1077:signal-handler (1751596017) Received SIGTERM scheduling shutdown...
+1077:M 04 Jul 2025 02:26:57.777 # User requested shutdown...
+1077:M 04 Jul 2025 02:26:57.777 * Removing the pid file.
+1077:M 04 Jul 2025 02:26:57.777 # Redis is now ready to exit, bye bye...
+1074:C 04 Jul 2025 02:27:44.078 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1074:C 04 Jul 2025 02:27:44.078 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1074, just started
+1074:C 04 Jul 2025 02:27:44.078 # Configuration loaded
+1074:M 04 Jul 2025 02:27:44.079 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1074:M 04 Jul 2025 02:27:44.079 * monotonic clock: POSIX clock_gettime
+1074:M 04 Jul 2025 02:27:44.094 * Running mode=standalone, port=13000.
+1074:M 04 Jul 2025 02:27:44.094 # Server initialized
+1074:M 04 Jul 2025 02:27:44.098 * Ready to accept connections
+1074:signal-handler (1751600547) Received SIGTERM scheduling shutdown...
+1074:M 04 Jul 2025 03:42:27.652 # User requested shutdown...
+1074:M 04 Jul 2025 03:42:27.653 * Removing the pid file.
+1074:M 04 Jul 2025 03:42:27.653 # Redis is now ready to exit, bye bye...
+1089:C 04 Jul 2025 03:43:14.171 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1089:C 04 Jul 2025 03:43:14.171 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1089, just started
+1089:C 04 Jul 2025 03:43:14.171 # Configuration loaded
+1089:M 04 Jul 2025 03:43:14.178 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1089:M 04 Jul 2025 03:43:14.179 * monotonic clock: POSIX clock_gettime
+1089:M 04 Jul 2025 03:43:14.184 * Running mode=standalone, port=13000.
+1089:M 04 Jul 2025 03:43:14.185 # Server initialized
+1089:M 04 Jul 2025 03:43:14.186 * Ready to accept connections
+1089:signal-handler (1751601822) Received SIGTERM scheduling shutdown...
+1089:M 04 Jul 2025 04:03:42.778 # User requested shutdown...
+1089:M 04 Jul 2025 04:03:42.778 * Removing the pid file.
+1089:M 04 Jul 2025 04:03:42.778 # Redis is now ready to exit, bye bye...
+1087:C 04 Jul 2025 04:04:29.924 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1087:C 04 Jul 2025 04:04:29.924 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1087, just started
+1087:C 04 Jul 2025 04:04:29.924 # Configuration loaded
+1087:M 04 Jul 2025 04:04:29.925 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1087:M 04 Jul 2025 04:04:29.925 * monotonic clock: POSIX clock_gettime
+1087:M 04 Jul 2025 04:04:29.927 * Running mode=standalone, port=13000.
+1087:M 04 Jul 2025 04:04:29.927 # Server initialized
+1087:M 04 Jul 2025 04:04:29.927 * Ready to accept connections
+1087:signal-handler (1751602838) Received SIGTERM scheduling shutdown...
+1087:M 04 Jul 2025 04:20:38.220 # User requested shutdown...
+1087:M 04 Jul 2025 04:20:38.220 * Removing the pid file.
+1087:M 04 Jul 2025 04:20:38.220 # Redis is now ready to exit, bye bye...
+1248:C 04 Jul 2025 04:21:25.959 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1248:C 04 Jul 2025 04:21:25.959 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1248, just started
+1248:C 04 Jul 2025 04:21:25.959 # Configuration loaded
+1248:M 04 Jul 2025 04:21:25.959 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1248:M 04 Jul 2025 04:21:25.959 * monotonic clock: POSIX clock_gettime
+1248:M 04 Jul 2025 04:21:25.965 * Running mode=standalone, port=13000.
+1248:M 04 Jul 2025 04:21:25.965 # Server initialized
+1248:M 04 Jul 2025 04:21:25.966 * Ready to accept connections
+1248:signal-handler (1751627773) Received SIGTERM scheduling shutdown...
+1248:M 04 Jul 2025 11:16:13.155 # User requested shutdown...
+1248:M 04 Jul 2025 11:16:13.155 * Removing the pid file.
+1248:M 04 Jul 2025 11:16:13.155 # Redis is now ready to exit, bye bye...
+1088:C 04 Jul 2025 11:17:00.323 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1088:C 04 Jul 2025 11:17:00.323 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1088, just started
+1088:C 04 Jul 2025 11:17:00.323 # Configuration loaded
+1088:M 04 Jul 2025 11:17:00.324 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1088:M 04 Jul 2025 11:17:00.324 * monotonic clock: POSIX clock_gettime
+1088:M 04 Jul 2025 11:17:00.324 * Running mode=standalone, port=13000.
+1088:M 04 Jul 2025 11:17:00.324 # Server initialized
+1088:M 04 Jul 2025 11:17:00.341 * Ready to accept connections
+1095:C 04 Jul 2025 12:00:57.706 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1095:C 04 Jul 2025 12:00:57.706 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1095, just started
+1095:C 04 Jul 2025 12:00:57.706 # Configuration loaded
+1095:M 04 Jul 2025 12:00:57.706 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1095:M 04 Jul 2025 12:00:57.706 * monotonic clock: POSIX clock_gettime
+1095:M 04 Jul 2025 12:00:57.722 * Running mode=standalone, port=13000.
+1095:M 04 Jul 2025 12:00:57.722 # Server initialized
+1095:M 04 Jul 2025 12:00:57.726 * Ready to accept connections
+1095:signal-handler (1751637186) Received SIGTERM scheduling shutdown...
+1095:M 04 Jul 2025 13:53:06.555 # User requested shutdown...
+1095:M 04 Jul 2025 13:53:06.555 * Removing the pid file.
+1095:M 04 Jul 2025 13:53:06.555 # Redis is now ready to exit, bye bye...
+1083:C 04 Jul 2025 13:53:52.011 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1083:C 04 Jul 2025 13:53:52.011 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1083, just started
+1083:C 04 Jul 2025 13:53:52.011 # Configuration loaded
+1083:M 04 Jul 2025 13:53:52.011 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1083:M 04 Jul 2025 13:53:52.011 * monotonic clock: POSIX clock_gettime
+1083:M 04 Jul 2025 13:53:52.012 * Running mode=standalone, port=13000.
+1083:M 04 Jul 2025 13:53:52.012 # Server initialized
+1083:M 04 Jul 2025 13:53:52.012 * Ready to accept connections
+1083:signal-handler (1751638220) Received SIGTERM scheduling shutdown...
+1083:M 04 Jul 2025 14:10:21.057 # User requested shutdown...
+1083:M 04 Jul 2025 14:10:21.057 * Removing the pid file.
+1083:M 04 Jul 2025 14:10:21.057 # Redis is now ready to exit, bye bye...
+1100:C 04 Jul 2025 14:11:06.350 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1100:C 04 Jul 2025 14:11:06.350 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1100, just started
+1100:C 04 Jul 2025 14:11:06.350 # Configuration loaded
+1100:M 04 Jul 2025 14:11:06.350 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1100:M 04 Jul 2025 14:11:06.350 * monotonic clock: POSIX clock_gettime
+1100:M 04 Jul 2025 14:11:06.351 * Running mode=standalone, port=13000.
+1100:M 04 Jul 2025 14:11:06.351 # Server initialized
+1100:M 04 Jul 2025 14:11:06.364 * Ready to accept connections
+1100:signal-handler (1751638785) Received SIGTERM scheduling shutdown...
+1100:M 04 Jul 2025 14:19:45.491 # User requested shutdown...
+1100:M 04 Jul 2025 14:19:45.491 * Removing the pid file.
+1100:M 04 Jul 2025 14:19:45.491 # Redis is now ready to exit, bye bye...
+1088:C 04 Jul 2025 14:20:29.156 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1088:C 04 Jul 2025 14:20:29.156 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1088, just started
+1088:C 04 Jul 2025 14:20:29.156 # Configuration loaded
+1088:M 04 Jul 2025 14:20:29.158 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1088:M 04 Jul 2025 14:20:29.158 * monotonic clock: POSIX clock_gettime
+1088:M 04 Jul 2025 14:20:29.166 * Running mode=standalone, port=13000.
+1088:M 04 Jul 2025 14:20:29.166 # Server initialized
+1088:M 04 Jul 2025 14:20:29.175 * Ready to accept connections
+1088:signal-handler (1751639588) Received SIGTERM scheduling shutdown...
+1088:M 04 Jul 2025 14:33:08.133 # User requested shutdown...
+1088:M 04 Jul 2025 14:33:08.133 * Removing the pid file.
+1088:M 04 Jul 2025 14:33:08.133 # Redis is now ready to exit, bye bye...
+1154:C 04 Jul 2025 14:33:54.539 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1154:C 04 Jul 2025 14:33:54.539 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1154, just started
+1154:C 04 Jul 2025 14:33:54.539 # Configuration loaded
+1154:M 04 Jul 2025 14:33:54.540 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1154:M 04 Jul 2025 14:33:54.540 * monotonic clock: POSIX clock_gettime
+1154:M 04 Jul 2025 14:33:54.547 * Running mode=standalone, port=13000.
+1154:M 04 Jul 2025 14:33:54.547 # Server initialized
+1154:M 04 Jul 2025 14:33:54.547 * Ready to accept connections
+1154:signal-handler (1751651533) Received SIGTERM scheduling shutdown...
+1154:M 04 Jul 2025 17:52:13.193 # User requested shutdown...
+1154:M 04 Jul 2025 17:52:13.193 * Removing the pid file.
+1154:M 04 Jul 2025 17:52:13.193 # Redis is now ready to exit, bye bye...
+1093:C 04 Jul 2025 17:52:56.115 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1093:C 04 Jul 2025 17:52:56.115 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1093, just started
+1093:C 04 Jul 2025 17:52:56.115 # Configuration loaded
+1093:M 04 Jul 2025 17:52:56.115 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1093:M 04 Jul 2025 17:52:56.115 * monotonic clock: POSIX clock_gettime
+1093:M 04 Jul 2025 17:52:56.119 * Running mode=standalone, port=13000.
+1093:M 04 Jul 2025 17:52:56.119 # Server initialized
+1093:M 04 Jul 2025 17:52:56.121 * Ready to accept connections
+1093:signal-handler (1751654501) Received SIGTERM scheduling shutdown...
+1093:M 04 Jul 2025 18:41:41.826 # User requested shutdown...
+1093:M 04 Jul 2025 18:41:41.826 * Removing the pid file.
+1093:M 04 Jul 2025 18:41:41.827 # Redis is now ready to exit, bye bye...
+1086:C 04 Jul 2025 18:42:28.519 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1086:C 04 Jul 2025 18:42:28.519 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1086, just started
+1086:C 04 Jul 2025 18:42:28.519 # Configuration loaded
+1086:M 04 Jul 2025 18:42:28.519 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1086:M 04 Jul 2025 18:42:28.519 * monotonic clock: POSIX clock_gettime
+1086:M 04 Jul 2025 18:42:28.520 * Running mode=standalone, port=13000.
+1086:M 04 Jul 2025 18:42:28.520 # Server initialized
+1086:M 04 Jul 2025 18:42:28.521 * Ready to accept connections
+1086:signal-handler (1751661218) Received SIGTERM scheduling shutdown...
+1086:M 04 Jul 2025 20:33:39.044 # User requested shutdown...
+1086:M 04 Jul 2025 20:33:39.044 * Removing the pid file.
+1086:M 04 Jul 2025 20:33:39.044 # Redis is now ready to exit, bye bye...
+1082:C 04 Jul 2025 20:34:23.499 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1082:C 04 Jul 2025 20:34:23.499 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1082, just started
+1082:C 04 Jul 2025 20:34:23.499 # Configuration loaded
+1082:M 04 Jul 2025 20:34:23.500 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1082:M 04 Jul 2025 20:34:23.500 * monotonic clock: POSIX clock_gettime
+1082:M 04 Jul 2025 20:34:23.501 * Running mode=standalone, port=13000.
+1082:M 04 Jul 2025 20:34:23.501 # Server initialized
+1082:M 04 Jul 2025 20:34:23.504 * Ready to accept connections
+1082:signal-handler (1751662315) Received SIGTERM scheduling shutdown...
+1082:M 04 Jul 2025 20:51:56.094 # User requested shutdown...
+1082:M 04 Jul 2025 20:51:56.094 * Removing the pid file.
+1082:M 04 Jul 2025 20:51:56.095 # Redis is now ready to exit, bye bye...
+1134:C 04 Jul 2025 20:52:41.561 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1134:C 04 Jul 2025 20:52:41.561 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1134, just started
+1134:C 04 Jul 2025 20:52:41.561 # Configuration loaded
+1134:M 04 Jul 2025 20:52:41.563 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1134:M 04 Jul 2025 20:52:41.563 * monotonic clock: POSIX clock_gettime
+1134:M 04 Jul 2025 20:52:41.572 * Running mode=standalone, port=13000.
+1134:M 04 Jul 2025 20:52:41.572 # Server initialized
+1134:M 04 Jul 2025 20:52:41.573 * Ready to accept connections
+1134:signal-handler (1751685993) Received SIGTERM scheduling shutdown...
+1134:M 05 Jul 2025 03:26:33.269 # User requested shutdown...
+1134:M 05 Jul 2025 03:26:33.269 * Removing the pid file.
+1134:M 05 Jul 2025 03:26:33.269 # Redis is now ready to exit, bye bye...
+1102:C 05 Jul 2025 03:27:17.414 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1102:C 05 Jul 2025 03:27:17.414 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1102, just started
+1102:C 05 Jul 2025 03:27:17.414 # Configuration loaded
+1102:M 05 Jul 2025 03:27:17.414 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1102:M 05 Jul 2025 03:27:17.414 * monotonic clock: POSIX clock_gettime
+1102:M 05 Jul 2025 03:27:17.416 * Running mode=standalone, port=13000.
+1102:M 05 Jul 2025 03:27:17.416 # Server initialized
+1102:M 05 Jul 2025 03:27:17.416 * Ready to accept connections
+1102:signal-handler (1751686643) Received SIGTERM scheduling shutdown...
+1102:M 05 Jul 2025 03:37:23.325 # User requested shutdown...
+1102:M 05 Jul 2025 03:37:23.325 * Removing the pid file.
+1102:M 05 Jul 2025 03:37:23.325 # Redis is now ready to exit, bye bye...
+1087:C 05 Jul 2025 03:38:07.722 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1087:C 05 Jul 2025 03:38:07.722 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1087, just started
+1087:C 05 Jul 2025 03:38:07.722 # Configuration loaded
+1087:M 05 Jul 2025 03:38:07.722 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1087:M 05 Jul 2025 03:38:07.722 * monotonic clock: POSIX clock_gettime
+1087:M 05 Jul 2025 03:38:07.723 * Running mode=standalone, port=13000.
+1087:M 05 Jul 2025 03:38:07.723 # Server initialized
+1087:M 05 Jul 2025 03:38:07.723 * Ready to accept connections
+1087:signal-handler (1751688014) Received SIGTERM scheduling shutdown...
+1087:M 05 Jul 2025 04:00:14.871 # User requested shutdown...
+1087:M 05 Jul 2025 04:00:14.871 * Removing the pid file.
+1087:M 05 Jul 2025 04:00:14.871 # Redis is now ready to exit, bye bye...
+1083:C 05 Jul 2025 04:01:02.646 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1083:C 05 Jul 2025 04:01:02.646 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1083, just started
+1083:C 05 Jul 2025 04:01:02.646 # Configuration loaded
+1083:M 05 Jul 2025 04:01:02.674 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1083:M 05 Jul 2025 04:01:02.674 * monotonic clock: POSIX clock_gettime
+1083:M 05 Jul 2025 04:01:02.703 * Running mode=standalone, port=13000.
+1083:M 05 Jul 2025 04:01:02.703 # Server initialized
+1083:M 05 Jul 2025 04:01:02.704 * Ready to accept connections
+1083:signal-handler (1751688440) Received SIGTERM scheduling shutdown...
+1083:M 05 Jul 2025 04:07:20.334 # User requested shutdown...
+1083:M 05 Jul 2025 04:07:20.334 * Removing the pid file.
+1083:M 05 Jul 2025 04:07:20.334 # Redis is now ready to exit, bye bye...
+1051:C 05 Jul 2025 04:08:06.648 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1051:C 05 Jul 2025 04:08:06.648 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1051, just started
+1051:C 05 Jul 2025 04:08:06.648 # Configuration loaded
+1051:M 05 Jul 2025 04:08:06.648 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1051:M 05 Jul 2025 04:08:06.648 * monotonic clock: POSIX clock_gettime
+1051:M 05 Jul 2025 04:08:06.658 * Running mode=standalone, port=13000.
+1051:M 05 Jul 2025 04:08:06.658 # Server initialized
+1051:M 05 Jul 2025 04:08:06.661 * Ready to accept connections
+1051:signal-handler (1751688572) Received SIGTERM scheduling shutdown...
+1051:M 05 Jul 2025 04:09:32.507 # User requested shutdown...
+1051:M 05 Jul 2025 04:09:32.507 * Removing the pid file.
+1051:M 05 Jul 2025 04:09:32.507 # Redis is now ready to exit, bye bye...
+1031:C 05 Jul 2025 04:10:16.004 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1031:C 05 Jul 2025 04:10:16.004 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1031, just started
+1031:C 05 Jul 2025 04:10:16.004 # Configuration loaded
+1031:M 05 Jul 2025 04:10:16.005 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1031:M 05 Jul 2025 04:10:16.005 * monotonic clock: POSIX clock_gettime
+1031:M 05 Jul 2025 04:10:16.007 * Running mode=standalone, port=13000.
+1031:M 05 Jul 2025 04:10:16.007 # Server initialized
+1031:M 05 Jul 2025 04:10:16.008 * Ready to accept connections
+1031:signal-handler (1751715228) Received SIGTERM scheduling shutdown...
+1031:M 05 Jul 2025 11:33:48.721 # User requested shutdown...
+1031:M 05 Jul 2025 11:33:48.721 * Removing the pid file.
+1031:M 05 Jul 2025 11:33:48.721 # Redis is now ready to exit, bye bye...
+1087:C 05 Jul 2025 11:34:33.616 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1087:C 05 Jul 2025 11:34:33.616 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1087, just started
+1087:C 05 Jul 2025 11:34:33.616 # Configuration loaded
+1087:M 05 Jul 2025 11:34:33.616 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1087:M 05 Jul 2025 11:34:33.616 * monotonic clock: POSIX clock_gettime
+1087:M 05 Jul 2025 11:34:33.618 * Running mode=standalone, port=13000.
+1087:M 05 Jul 2025 11:34:33.618 # Server initialized
+1087:M 05 Jul 2025 11:34:33.618 * Ready to accept connections
+1087:signal-handler (1751742157) Received SIGTERM scheduling shutdown...
+1087:M 05 Jul 2025 19:02:37.700 # User requested shutdown...
+1087:M 05 Jul 2025 19:02:37.700 * Removing the pid file.
+1087:M 05 Jul 2025 19:02:37.700 # Redis is now ready to exit, bye bye...
+1062:C 05 Jul 2025 19:03:22.143 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1062:C 05 Jul 2025 19:03:22.143 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1062, just started
+1062:C 05 Jul 2025 19:03:22.143 # Configuration loaded
+1062:M 05 Jul 2025 19:03:22.145 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1062:M 05 Jul 2025 19:03:22.145 * monotonic clock: POSIX clock_gettime
+1062:M 05 Jul 2025 19:03:22.150 * Running mode=standalone, port=13000.
+1062:M 05 Jul 2025 19:03:22.150 # Server initialized
+1062:M 05 Jul 2025 19:03:22.150 * Ready to accept connections
+1062:signal-handler (1751779351) Received SIGTERM scheduling shutdown...
+1062:M 06 Jul 2025 05:22:31.215 # User requested shutdown...
+1062:M 06 Jul 2025 05:22:31.215 * Removing the pid file.
+1062:M 06 Jul 2025 05:22:31.215 # Redis is now ready to exit, bye bye...
+1116:C 06 Jul 2025 05:23:15.547 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1116:C 06 Jul 2025 05:23:15.547 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1116, just started
+1116:C 06 Jul 2025 05:23:15.547 # Configuration loaded
+1116:M 06 Jul 2025 05:23:15.547 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1116:M 06 Jul 2025 05:23:15.547 * monotonic clock: POSIX clock_gettime
+1116:M 06 Jul 2025 05:23:15.563 * Running mode=standalone, port=13000.
+1116:M 06 Jul 2025 05:23:15.563 # Server initialized
+1116:M 06 Jul 2025 05:23:15.563 * Ready to accept connections
+1116:signal-handler (1751779870) Received SIGTERM scheduling shutdown...
+1116:M 06 Jul 2025 05:31:10.951 # User requested shutdown...
+1116:M 06 Jul 2025 05:31:10.951 * Removing the pid file.
+1116:M 06 Jul 2025 05:31:10.952 # Redis is now ready to exit, bye bye...
+1140:C 06 Jul 2025 05:31:56.621 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1140:C 06 Jul 2025 05:31:56.621 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1140, just started
+1140:C 06 Jul 2025 05:31:56.621 # Configuration loaded
+1140:M 06 Jul 2025 05:31:56.622 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1140:M 06 Jul 2025 05:31:56.622 * monotonic clock: POSIX clock_gettime
+1140:M 06 Jul 2025 05:31:56.628 * Running mode=standalone, port=13000.
+1140:M 06 Jul 2025 05:31:56.628 # Server initialized
+1140:M 06 Jul 2025 05:31:56.629 * Ready to accept connections
+1131:C 09 Sep 2025 11:52:14.903 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1131:C 09 Sep 2025 11:52:14.903 # Redis version=7.0.15, bits=64, commit=00000000, modified=0, pid=1131, just started
+1131:C 09 Sep 2025 11:52:14.903 # Configuration loaded
+1131:M 09 Sep 2025 11:52:14.903 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+1131:M 09 Sep 2025 11:52:14.903 * monotonic clock: POSIX clock_gettime
+1131:M 09 Sep 2025 11:52:14.904 * Running mode=standalone, port=13000.
+1131:M 09 Sep 2025 11:52:14.904 # Server initialized
+1131:M 09 Sep 2025 11:52:14.913 * Ready to accept connections
